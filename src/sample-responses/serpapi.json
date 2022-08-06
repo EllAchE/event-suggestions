@@ -1,0 +1,586 @@
+{
+  "query": "https://serpapi.com/search.json?q=events+in+Austin&google_domain=google.com&gl=us&hl=en&api_key=ae432bb4eade9985f9af2cd8d94a411516a216b598a697992b4f9bbe150c832f",
+  "search_metadata": {
+    "id": "62e77eaba1b423c80e24dbaa",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/349dc93696018680/62e77eaba1b423c80e24dbaa.json",
+    "created_at": "2022-08-01 07:20:11 UTC",
+    "processed_at": "2022-08-01 07:20:11 UTC",
+    "google_url": "https://www.google.com/search?q=events+in+Austin&oq=events+in+Austin&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/349dc93696018680/62e77eaba1b423c80e24dbaa.html",
+    "total_time_taken": 12.79
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "events in Austin",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "query_displayed": "events in Austin",
+    "total_results": 861000000,
+    "time_taken_displayed": 0.51,
+    "menu_items": [
+      {
+        "position": 1,
+        "title": "All"
+      },
+      {
+        "position": 2,
+        "title": "Maps",
+        "link": "https://maps.google.com/maps?q=events+in+Austin&hl=en&gl=us&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjGv5eqjaX5AhWHj4kEHfMYC5gQ_AUoAXoECAEQAw"
+      },
+      {
+        "position": 3,
+        "title": "News",
+        "link": "https://www.google.com/search?q=events+in+Austin&hl=en&gl=us&source=lnms&tbm=nws&sa=X&ved=2ahUKEwjGv5eqjaX5AhWHj4kEHfMYC5gQ_AUoAnoECAEQBA",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=events+in+Austin&tbm=nws"
+      },
+      {
+        "position": 4,
+        "title": "Shopping",
+        "link": "https://www.google.com/search?q=events+in+Austin&hl=en&gl=us&source=lnms&tbm=shop&sa=X&ved=2ahUKEwjGv5eqjaX5AhWHj4kEHfMYC5gQ_AUoA3oECAEQBQ",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=events+in+Austin&tbm=shop"
+      },
+      {
+        "position": 5,
+        "title": "Images",
+        "link": "https://www.google.com/search?q=events+in+Austin&hl=en&gl=us&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjGv5eqjaX5AhWHj4kEHfMYC5gQ_AUoBHoECAEQBg",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=events+in+Austin&tbm=isch"
+      }
+    ]
+  },
+  "ads": [
+    {
+      "position": 1,
+      "block_position": "top",
+      "title": "Events In Austin - View The Event Calendar",
+      "link": "https://www.austintexas.org/events/",
+      "displayed_link": "https://www.austintexas.org/",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwj55Z6qjaX5AhXEwMgKHZQCBrsYABABGgJxdQ&ae=2&sig=AOD64_2tFFg0tpUOllgxffxpqno7drDO7Q&q&adurl",
+      "extensions": [
+        "‎Music Scene · ‎Things to Do · ‎Outdoor Adventure · ‎Visitor Guide · ‎Places to Stay · ‎Shopping"
+      ],
+      "description": "Browse Austin's Official Events Calendar to See What's on the Horizon. With a Plethora of Music, Culture, Family Events and More, There's Something For Everyone! Create Your Next Story. Annual Events & Festivals. Diverse & Friendly People. Feel Welcomed.",
+      "sitelinks": [
+        {
+          "title": "Music Scene",
+          "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwj55Z6qjaX5AhXEwMgKHZQCBrsYABADGgJxdQ&ae=2&sig=AOD64_2R1wVxw_QlC-s-mVDQB33PdsZMCg&q=&ved=2ahUKEwjGv5eqjaX5AhWHj4kEHfMYC5gQpigoAHoECAIQBQ&adurl="
+        },
+        {
+          "title": "Things to Do",
+          "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwj55Z6qjaX5AhXEwMgKHZQCBrsYABAEGgJxdQ&ae=2&sig=AOD64_132isREh7-KHRomknFI6OEcTcLSw&q=&ved=2ahUKEwjGv5eqjaX5AhWHj4kEHfMYC5gQpigoAXoECAIQBg&adurl="
+        },
+        {
+          "title": "Outdoor Adventure",
+          "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwj55Z6qjaX5AhXEwMgKHZQCBrsYABAGGgJxdQ&ae=2&sig=AOD64_3s3EtQr5UD4EJ6DvMrshylW-7XBA&q=&ved=2ahUKEwjGv5eqjaX5AhWHj4kEHfMYC5gQpigoAnoECAIQBw&adurl="
+        },
+        {
+          "title": "Visitor Guide",
+          "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwj55Z6qjaX5AhXEwMgKHZQCBrsYABAIGgJxdQ&ae=2&sig=AOD64_0lMOURUeOS_JK7SjtNxbN_D9O0nQ&q=&ved=2ahUKEwjGv5eqjaX5AhWHj4kEHfMYC5gQpigoA3oECAIQCA&adurl="
+        },
+        {
+          "title": "Places to Stay",
+          "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwj55Z6qjaX5AhXEwMgKHZQCBrsYABAKGgJxdQ&ae=2&sig=AOD64_0AkY-DA4Afztl28o03JzHB3B_v6g&q=&ved=2ahUKEwjGv5eqjaX5AhWHj4kEHfMYC5gQpigoBHoECAIQCQ&adurl="
+        },
+        {
+          "title": "Shopping",
+          "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwj55Z6qjaX5AhXEwMgKHZQCBrsYABAMGgJxdQ&ae=2&sig=AOD64_0SI0m9QqxvPLWudME4l3urL-qvPA&q=&ved=2ahUKEwjGv5eqjaX5AhWHj4kEHfMYC5gQpigoBXoECAIQCg&adurl="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "block_position": "top",
+      "title": "Calendar Of Events - Austin - Check Out What's Going On",
+      "link": "https://vortexrep.org/calendar",
+      "displayed_link": "http://www.vortexrep.org/",
+      "tracking_link": "https://www.google.com/aclk?sa=l&ai=DChcSEwj55Z6qjaX5AhXEwMgKHZQCBrsYABAAGgJxdQ&ae=2&sig=AOD64_1khDGlC-Jyxi4fQx4iTM2caMB5sQ&q&adurl",
+      "extensions": [
+        "‎Calendar of Events · ‎Buy Tickets · ‎About The Vortex · ‎Donate Online · ‎Contact Us"
+      ],
+      "description": "The Vortex creates and presents new, innovative performances. See what's playing! Donate Online. Sign Up For News. Buy Tickets Online. Highlights: Newsletter Available, Established In 1988, Donation Option Available.",
+      "sitelinks": [
+        {
+          "title": "Calendar of Events",
+          "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwj55Z6qjaX5AhXEwMgKHZQCBrsYABACGgJxdQ&ae=2&sig=AOD64_0Wr8hYwx94p2jJnLu9tCfS0hgl3A&q=&ved=2ahUKEwjGv5eqjaX5AhWHj4kEHfMYC5gQpigoAHoECAMQBQ&adurl="
+        },
+        {
+          "title": "Buy Tickets",
+          "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwj55Z6qjaX5AhXEwMgKHZQCBrsYABAFGgJxdQ&ae=2&sig=AOD64_2Eh5Dh32j2yzcSbeVr6FDBX_CdZQ&q=&ved=2ahUKEwjGv5eqjaX5AhWHj4kEHfMYC5gQpigoAXoECAMQBg&adurl="
+        },
+        {
+          "title": "About The Vortex",
+          "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwj55Z6qjaX5AhXEwMgKHZQCBrsYABAHGgJxdQ&ae=2&sig=AOD64_1_XJPeeHssg8Ce6IGaZXH3GoIwPg&q=&ved=2ahUKEwjGv5eqjaX5AhWHj4kEHfMYC5gQpigoAnoECAMQBw&adurl="
+        },
+        {
+          "title": "Donate Online",
+          "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwj55Z6qjaX5AhXEwMgKHZQCBrsYABAJGgJxdQ&ae=2&sig=AOD64_3kqOjCxl2ZfWzrRt42uLXgKf2gWA&q=&ved=2ahUKEwjGv5eqjaX5AhWHj4kEHfMYC5gQpigoA3oECAMQCA&adurl="
+        },
+        {
+          "title": "Contact Us",
+          "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwj55Z6qjaX5AhXEwMgKHZQCBrsYABALGgJxdQ&ae=2&sig=AOD64_2m6xDtv288R9jZ3Gacoj7xf2Ep-A&q=&ved=2ahUKEwjGv5eqjaX5AhWHj4kEHfMYC5gQpigoBHoECAMQCQ&adurl="
+        }
+      ]
+    }
+  ],
+  "events_results": [
+    {
+      "title": "Leon Bridges - The Boundless",
+      "date": {
+        "start_date": "Aug 6",
+        "when": "Sat, 2 – 11 PM"
+      },
+      "address": ["Moody Center, 2001 Robert Dedman Dr", "Austin, TX"],
+      "link": "https://www.google.com/search?q=events+in+Austin&hl=en&gl=us&oq=events+in+Austin&ibp=htl;events&rciv=evn&sa=X&ved=2ahUKEwjGv5eqjaX5AhWHj4kEHfMYC5gQ5bwDegQIDhAB#fpstate=tldetail&htidocid=L2F1dGhvcml0eS9ob3Jpem9uL2NsdXN0ZXJlZF9ldmVudC8yMDIyLTA4LTA1fF83NjczMjk0ODkwMTI3NDgzNzkz&htivrt=events&mid=/g/11rppsd884",
+      "thumbnail": "https://serpapi.com/searches/62e77eaba1b423c80e24dbaa/images/23305fc2c531e15c1f94495d28c6836ebb222b52cd135250463b9198ef3434ab.jpeg"
+    },
+    {
+      "title": "KOKEFEST",
+      "date": {
+        "start_date": "Aug 5",
+        "when": "Fri, Aug 5 – Sat, Aug 6"
+      },
+      "address": ["Hutto", "Hutto, TX"],
+      "link": "https://www.google.com/search?q=events+in+Austin&hl=en&gl=us&oq=events+in+Austin&ibp=htl;events&rciv=evn&sa=X&ved=2ahUKEwjGv5eqjaX5AhWHj4kEHfMYC5gQ5bwDegQIDRAB#fpstate=tldetail&htidocid=L2F1dGhvcml0eS9ob3Jpem9uL2NsdXN0ZXJlZF9ldmVudC8yMDIyLTA4LTA1fDE1MTIzODY4MjY1OTQ0NzMwMTAx&htivrt=events&mid=/g/11pvct7c4r",
+      "thumbnail": "https://serpapi.com/searches/62e77eaba1b423c80e24dbaa/images/23305fc2c531e15c0328de9cb6b4697174ba2ad13896ca0e078a0200039336ef.jpeg"
+    },
+    {
+      "title": "The Head And The Heart",
+      "date": {
+        "start_date": "Aug 1",
+        "when": "Mon, Aug 1 – Tue, Aug 2"
+      },
+      "address": ["ACL Live, 310 W Willie Nelson Blvd", "Austin, TX"],
+      "link": "https://www.google.com/search?q=events+in+Austin&hl=en&gl=us&oq=events+in+Austin&ibp=htl;events&rciv=evn&sa=X&ved=2ahUKEwjGv5eqjaX5AhWHj4kEHfMYC5gQ5bwDegQIDBAB#fpstate=tldetail&htidocid=L2F1dGhvcml0eS9ob3Jpem9uL2NsdXN0ZXJlZF9ldmVudC8yMDIyLTA4LTAxfDE0NDg5Mzk5OTI4ODYzMzI0ODA5&htivrt=events&mid=/g/11snw4g02w",
+      "thumbnail": "https://serpapi.com/searches/62e77eaba1b423c80e24dbaa/images/23305fc2c531e15c8303dac15edd6001f12a3b71d58421241aaedb30ade005c3.jpeg"
+    }
+  ],
+  "more_events_link": "https://www.google.com/search?q=events+in+Austin&hl=en&gl=us&oq=events+in+Austin&ibp=htl;events&rciv=evn&sa=X&ved=2ahUKEwjGv5eqjaX5AhWHj4kEHfMYC5gQ8eoFKAJ6BAgEEA8",
+  "more_events_serpapi_link": "https://serpapi.com/search.json?engine=google_events&q=events+in+Austin",
+  "inline_people_also_search_for": [
+    {
+      "title": "Festivals in Austin",
+      "items": [
+        {
+          "name": "South by Southwest",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShr2dJxlPPyro3adHskIz5Zk0kodHTaun2zJR8&s=0",
+          "link": "https://www.google.com/search?hl=en&gl=us&q=SXSW&stick=H4sIAAAAAAAAAOOQUeLUz9U3SMouMqkwEk5LLS7JLEvMKVbIzFNILAVy8qIEUstS80rAIo5gkVOMCC1QtqmRQUnVKUZe_XR9Q8NkCwPLsviMpFOMXCA5k0pLY0sjKCcvxaSsIAeqK6Uo3rgcyrZISzePhypKKzTMKSo4xcgN4hgaZBikVZqfYuQBG25UmZaba5nxi1HYDdmtEJc1sDAuYmUJjggOv8UmyWD6sZVJ2myeRPqlk1mdSh-Sy_bp1xx4m24IANQgoK30AAAA&sa=X&ved=2ahUKEwjGv5eqjaX5AhWHj4kEHfMYC5gQs9oBKAB6BAgUEAI",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=SXSW&stick=H4sIAAAAAAAAAOOQUeLUz9U3SMouMqkwEk5LLS7JLEvMKVbIzFNILAVy8qIEUstS80rAIo5gkVOMCC1QtqmRQUnVKUZe_XR9Q8NkCwPLsviMpFOMXCA5k0pLY0sjKCcvxaSsIAeqK6Uo3rgcyrZISzePhypKKzTMKSo4xcgN4hgaZBikVZqfYuQBG25UmZaba5nxi1HYDdmtEJc1sDAuYmUJjggOv8UmyWD6sZVJ2myeRPqlk1mdSh-Sy_bp1xx4m24IANQgoK30AAAA"
+        },
+        {
+          "name": "Austin City Limits Music Festival",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjvEL2uxCpQ1bMPXTqYVm3r5H17VENerE1Ese9&s=0",
+          "link": "https://www.google.com/search?hl=en&gl=us&q=Austin+City+Limits+Music+Festival&stick=H4sIAAAAAAAAAOOQUeLUz9U3MDUyKKkyEk5LLS7JLEvMKVbIzFNILAVy8qIEUstS80rAIo5gkVOMYC1J2UUmFVA2WPspRl79dH1Dw2QLA8uy-IykU4xcIDmTSktjSyMoJy_FpKwgB6orpSjeuBzKtkhLN4-HKkorNMwpKjjFyA3iGBpkGKRVmp9i5AEbblSZlptrmfGLUdgN2a0QlzWwMC5iVYSwFZwzSyoVfDJzM4Fu9y0tzkxWgOm4xSbJYPqxlUnabJ5E-qWTWZ1KH5LL9unXHHibbggAetQixxEBAAA&sa=X&ved=2ahUKEwjGv5eqjaX5AhWHj4kEHfMYC5gQs9oBKAF6BAgUEAM",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Austin+City+Limits+Music+Festival&stick=H4sIAAAAAAAAAOOQUeLUz9U3MDUyKKkyEk5LLS7JLEvMKVbIzFNILAVy8qIEUstS80rAIo5gkVOMYC1J2UUmFVA2WPspRl79dH1Dw2QLA8uy-IykU4xcIDmTSktjSyMoJy_FpKwgB6orpSjeuBzKtkhLN4-HKkorNMwpKjjFyA3iGBpkGKRVmp9i5AEbblSZlptrmfGLUdgN2a0QlzWwMC5iVYSwFZwzSyoVfDJzM4Fu9y0tzkxWgOm4xSbJYPqxlUnabJ5E-qWTWZ1KH5LL9unXHHibbggAetQixxEBAAA"
+        },
+        {
+          "name": "The Pecan Street Festival",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ17oGeMRqcOZtk2WQBac3TJ22gSldN8-U3hisqQVyyYHgd5EApLs8&s=0",
+          "link": "https://www.google.com/search?hl=en&gl=us&q=pecan+street+festival&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEy2MLAsi89IMhJOSy0uySxLzClWyMxTSCwFcvKiBFLLUvNKwCKOYJFTjJz6ufoGSdlFJhVQtqmRQUnVKUZU404xcoHkTCotjS2NoJy8FJOyghyorpSieONyKNsiLd08HqoordAwp6jgFCM3iGNokGGQVml-ipEHbLhRZVpurmXGL0ZhN2S3QlzWwMK4iFW0IDU5MU-huKQoNbVEAeajW2ySDKYfW5mkzeZJpF86mdWp9CG5bJ9-zYG36YYA72bR4wkBAAA&sa=X&ved=2ahUKEwjGv5eqjaX5AhWHj4kEHfMYC5gQs9oBKAJ6BAgUEAQ",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=pecan+street+festival&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEy2MLAsi89IMhJOSy0uySxLzClWyMxTSCwFcvKiBFLLUvNKwCKOYJFTjJz6ufoGSdlFJhVQtqmRQUnVKUZU404xcoHkTCotjS2NoJy8FJOyghyorpSieONyKNsiLd08HqoordAwp6jgFCM3iGNokGGQVml-ipEHbLhRZVpurmXGL0ZhN2S3QlzWwMK4iFW0IDU5MU-huKQoNbVEAeajW2ySDKYfW5mkzeZJpF86mdWp9CG5bJ9-zYG36YYA72bR4wkBAAA"
+        },
+        {
+          "name": "Texas Book Festival",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaNSxbKjN7CFwOiCT_G1GaAWIZwIHVY_sYmQq_&s=0",
+          "link": "https://www.google.com/search?hl=en&gl=us&q=Texas+Book+Festival&stick=H4sIAAAAAAAAAOOQUeLSz9U3MKm0NLY0MhJOSy0uySxLzClWyMxTSCwFcvKiBFLLUvNKwCKOYJFTjJwgPUnZRSYVULapkUFJ1SlGXv10fUPDZAsDy7L4jKRTjEhmQzl5KSZlBTlQXSlF8cblULZFWrp5PFRRWqFhTlHBKUZuEMfQIMMgrdL8FCMP2HCjyrTcXMuMX4zCbshuhbisgYVxEatwSGpFYrGCU35-tgJMzS02SQbTj61M0mbzJNIvnczqVPqQXLZPv-bA23RDAJ6iRgsEAQAA&sa=X&ved=2ahUKEwjGv5eqjaX5AhWHj4kEHfMYC5gQs9oBKAN6BAgUEAU",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Texas+Book+Festival&stick=H4sIAAAAAAAAAOOQUeLSz9U3MKm0NLY0MhJOSy0uySxLzClWyMxTSCwFcvKiBFLLUvNKwCKOYJFTjJwgPUnZRSYVULapkUFJ1SlGXv10fUPDZAsDy7L4jKRTjEhmQzl5KSZlBTlQXSlF8cblULZFWrp5PFRRWqFhTlHBKUZuEMfQIMMgrdL8FCMP2HCjyrTcXMuMX4zCbshuhbisgYVxEatwSGpFYrGCU35-tgJMzS02SQbTj61M0mbzJNIvnczqVPqQXLZPv-bA23RDAJ6iRgsEAQAA"
+        },
+        {
+          "name": "Austin Food & Wine Festival",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxEUAEbKn5Mql5tNyWYLObgtSpIn0BXfpl7BYA&s=0",
+          "link": "https://www.google.com/search?hl=en&gl=us&q=Austin+Food+and+Wine+Festival&stick=H4sIAAAAAAAAAOOQUeLSz9U3yEsxKSvIMRJOSy0uySxLzClWyMxTSCwFcvKiBFLLUvNKwCKOYJFTjJwgPUnZRSYVULapkUFJ1SlGXv10fUPDZAsDy7L4jKRTjGCzTSotjS2NoByIRVBdKUXxxuVQtkVaunk8VFFaoWFOUcEpRm4Qx9AgwyCt0vwUIw_YcKPKtNxcy4xfjMJuyG6FuKyBhXERqyyEreCWn5-ikJiXohCemZeqAFN9i02SwfRjK5O02TyJ9EsnszqVPiSX7dOvOfA23RAAnxDkmQ4BAAA&sa=X&ved=2ahUKEwjGv5eqjaX5AhWHj4kEHfMYC5gQs9oBKAR6BAgUEAY",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Austin+Food+and+Wine+Festival&stick=H4sIAAAAAAAAAOOQUeLSz9U3yEsxKSvIMRJOSy0uySxLzClWyMxTSCwFcvKiBFLLUvNKwCKOYJFTjJwgPUnZRSYVULapkUFJ1SlGXv10fUPDZAsDy7L4jKRTjGCzTSotjS2NoByIRVBdKUXxxuVQtkVaunk8VFFaoWFOUcEpRm4Qx9AgwyCt0vwUIw_YcKPKtNxcy4xfjMJuyG6FuKyBhXERqyyEreCWn5-ikJiXohCemZeqAFN9i02SwfRjK5O02TyJ9EsnszqVPiSX7dOvOfA23RAAnxDkmQ4BAAA"
+        },
+        {
+          "name": "Austin Film Festival",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSc5L2zkD0iMwHgxsikhTGzQw4cIS4a8fl-luD&s=0",
+          "link": "https://www.google.com/search?hl=en&gl=us&q=Austin+Film+Festival&stick=H4sIAAAAAAAAAOOQUeLUz9U3SCmKNy43Ek5LLS7JLEvMKVbIzFNILAVy8qIEUstS80rAIo5gkVOMYC1J2UUmFVC2qZFBSdUpRl79dH1Dw2QLA8uy-IykU4xcIDmTSktjSyMoJy_FpKwgB6oLbCmUbZGWbh4PVZRWaJhTVHCKkRvEMTTIMEirND_FyAM23KgyLTfXMuMXo7AbslshLmtgYVzEKgJhK7hl5uQqwBTdYpNkMP3YyiRtNk8i_dLJrE6lD8ll-_RrDrxNNwQAwVyjKwQBAAA&sa=X&ved=2ahUKEwjGv5eqjaX5AhWHj4kEHfMYC5gQs9oBKAV6BAgUEAc",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Austin+Film+Festival&stick=H4sIAAAAAAAAAOOQUeLUz9U3SCmKNy43Ek5LLS7JLEvMKVbIzFNILAVy8qIEUstS80rAIo5gkVOMYC1J2UUmFVC2qZFBSdUpRl79dH1Dw2QLA8uy-IykU4xcIDmTSktjSyMoJy_FpKwgB6oLbCmUbZGWbh4PVZRWaJhTVHCKkRvEMTTIMEirND_FyAM23KgyLTfXMuMXo7AbslshLmtgYVzEKgJhK7hl5uQqwBTdYpNkMP3YyiRtNk8i_dLJrE6lD8ll-_RrDrxNNwQAwVyjKwQBAAA"
+        }
+      ],
+      "see_more_link": "https://www.google.com/search?hl=en&gl=us&q=Festivals+in+Austin&stick=H4sIAAAAAAAAAOOQMRJOSy0uySxLzClWyMxTSCwFcvKiBFLLUvNKwCKOYJFTjJz6ufoGSdlFJhVQtqmRQUnVKUZe_XR9Q8NkCwPLsviMpFOMXCA5k0pLY0sjKCcvxaSsIAeqK6Uo3rgcyrZISzePhypKKzTMKSo4xcgN4hgaZBikVZqfYuQBG25UmZaba5nxi1HYDdmtEJc1sDAuYsUmcYtNksH0YyuTtNk8ifRLJ7M6lT4kl-3TrznwNt0QAK6HjxL4AAAA&sa=X&ved=2ahUKEwjGv5eqjaX5AhWHj4kEHfMYC5gQ4qYDegQIFBAI",
+      "see_more_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Festivals+in+Austin&stick=H4sIAAAAAAAAAOOQMRJOSy0uySxLzClWyMxTSCwFcvKiBFLLUvNKwCKOYJFTjJz6ufoGSdlFJhVQtqmRQUnVKUZe_XR9Q8NkCwPLsviMpFOMXCA5k0pLY0sjKCcvxaSsIAeqK6Uo3rgcyrZISzePhypKKzTMKSo4xcgN4hgaZBikVZqfYuQBG25UmZaba5nxi1HYDdmtEJc1sDAuYsUmcYtNksH0YyuTtNk8ifRLJ7M6lT4kl-3TrznwNt0QAK6HjxL4AAAA"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Events in Austin | Live Music, Festivals, Sports & Family Fun",
+      "link": "https://www.austintexas.org/events/",
+      "displayed_link": "https://www.austintexas.org › events",
+      "snippet": "Austin, Texas offers a wide range of events, from music concerts, food festivals and sports competitions to museum displays, exhibits and family fun.",
+      "snippet_highlighted_words": ["Austin", "events"],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "June and July",
+            "link": "https://www.austintexas.org/events/june-and-july/"
+          },
+          {
+            "title": "April and May",
+            "link": "https://www.austintexas.org/events/april-may/"
+          },
+          {
+            "title": "October and November",
+            "link": "https://www.austintexas.org/events/october-and-november/"
+          },
+          {
+            "title": "August and September",
+            "link": "https://www.austintexas.org/events/august-and-september/"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "austintexas.org was first indexed by Google more than 10 years ago",
+          "icon": "https://serpapi.com/searches/62e77eaba1b423c80e24dbaa/images/712f827694dae8ea5a46198576e1109d7bb7adcbb5671faf53636c1a63b002d652d3226c443110eb31df5f96147addae.png"
+        },
+        "keywords": ["events", "austin"],
+        "languages": ["English"],
+        "regions": ["the United States"]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:sihMW7i0hIAJ:https://www.austintexas.org/events/+&cd=11&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 2,
+      "title": "Austin Events, Music, Art, Drink Specials & More",
+      "link": "https://do512.com/",
+      "displayed_link": "https://do512.com",
+      "snippet": "What to do in Austin Today ; Michelangelo's Sistine Chapel: The E... Circuit of the Americas. 10:00AM · 1019. 353 ; Dance Gavin Dance w/ Royal Coda a... Emo's. 6: ...",
+      "snippet_highlighted_words": ["Austin"],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "What to do in Austin Today",
+            "link": "https://do512.com/events/today"
+          },
+          {
+            "title": "Austin Events, Music, Art, Drink...",
+            "link": "https://do512.com/?page=2"
+          },
+          {
+            "title": "Events",
+            "link": "https://do512.com/users/current"
+          },
+          {
+            "title": "Settings",
+            "link": "https://do512.com/users/current/edit"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "do512.com was first indexed by Google more than 10 years ago",
+          "icon": "https://serpapi.com/searches/62e77eaba1b423c80e24dbaa/images/712f827694dae8ea5a46198576e1109da60293244fe9bf348eb1893f4db63d5fa9270b819b148c78e996014ff5482358.png"
+        },
+        "keywords": ["events", "austin"],
+        "languages": ["English"],
+        "regions": ["the United States"]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:uBPfRGSKTwEJ:https://do512.com/+&cd=12&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 3,
+      "title": "Austin Events Calendar - Jul 2022",
+      "link": "https://austin.culturemap.com/events/",
+      "displayed_link": "https://austin.culturemap.com › events",
+      "date": "17 hours ago",
+      "snippet": "CultureMap Austin is your daily source for local lifestyle news, ... All events are subject to change due to weather or other concerns.",
+      "snippet_highlighted_words": ["Austin", "events"],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Aug 01",
+            "link": "https://austin.culturemap.com/events/?day=1&month=8&year=2022"
+          },
+          {
+            "title": "Submit an Event",
+            "link": "https://austin.culturemap.com/submit-an-event"
+          },
+          {
+            "title": "July 07",
+            "link": "https://austin.culturemap.com/events/?day=7&month=7&year=2022"
+          },
+          {
+            "title": "July 08",
+            "link": "https://austin.culturemap.com/events/?day=8&month=7&year=2022"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "austin.culturemap.com was first indexed by Google more than 10 years ago",
+          "icon": "https://serpapi.com/searches/62e77eaba1b423c80e24dbaa/images/712f827694dae8ea5a46198576e1109d9b58135b2f0ece80bb8ad415ba48df58d3498f0e8ef94943913c72a5aac25983.png"
+        },
+        "keywords": ["events", "austin"],
+        "languages": ["English"],
+        "regions": ["the United States"]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:GGglh7dvzCoJ:https://austin.culturemap.com/events/+&cd=13&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 4,
+      "title": "Austin, TX Events, Tickets & Things To Do | Eventbrite",
+      "link": "https://www.eventbrite.com/d/tx--austin/events/",
+      "displayed_link": "https://www.eventbrite.com › tx--austin › events",
+      "snippet": "Austin Out Loud-Comedy Showcase. Austin Out Loud-Comedy Showcase · Late at the Lake · All The Vibes RoofTop Party - EVERY FIRST THURSDAY @ COCONUT CLUB · Drippin ...",
+      "snippet_highlighted_words": ["Austin", "Austin"],
+      "sitelinks": {
+        "list": [
+          {
+            "date": "Austin Out Loud-Comedy ..."
+          },
+          {
+            "date": "Beginner's Succulent ..."
+          },
+          {
+            "date": "DECREPIT BIRTH"
+          }
+        ]
+      },
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "sun_jul": null
+          },
+          "extensions": [
+            "Sun, Jul 31",
+            "Austin Out Loud-Comedy ...",
+            "Sun, Jul 31",
+            "Beginner's Succulent ...",
+            "Sun, Jul 31",
+            "DECREPIT BIRTH"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Eventbrite is an American event management and ticketing website. The service allows users to browse, create, and promote local events. The service charges a fee to event organizers in exchange for online ticketing services, unless the event is free.",
+          "icon": "https://serpapi.com/searches/62e77eaba1b423c80e24dbaa/images/712f827694dae8ea5a46198576e1109d83f6b9b6822c778d058a97da9b1bf379236aa96d5e23346bdf1505d5a4ca0d94.png"
+        },
+        "keywords": ["events", "austin"],
+        "languages": ["English"],
+        "regions": ["the United States"]
+      },
+      "cached_page_link": "/search?hl=en&gl=us&q=related:https://www.eventbrite.com/d/tx--austin/events/+events+in+Austin"
+    },
+    {
+      "position": 5,
+      "title": "Events - Sunday, July 31, 2022 - The Austin Chronicle",
+      "link": "https://www.austinchronicle.com/events/",
+      "displayed_link": "https://www.austinchronicle.com › events",
+      "snippet": "Home Events · Arts · Visual Arts · Art Spark Texas: BBQ, Art, and Pie Social · Arts · Visual Arts · BANKSYLAND · Film · Special Screenings · Friday (1995) · Arts.",
+      "snippet_highlighted_words": ["Events"],
+      "about_this_result": {
+        "source": {
+          "description": "The Austin Chronicle is an alternative weekly newspaper published every Thursday in Austin, Texas, United States. The paper is distributed through free news-stands, often at local eateries or coffee houses frequented by its targeted demographic. The newspaper reported a weekly readership of 545,500.",
+          "icon": "https://serpapi.com/searches/62e77eaba1b423c80e24dbaa/images/712f827694dae8ea5a46198576e1109dedb28fd70cdae1bc41426702d1cbf5178d5ff93513d42562241e2b0a684b314b.png"
+        },
+        "keywords": ["events", "austin"],
+        "languages": ["English"],
+        "regions": ["the United States"]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:lZdguHo76-wJ:https://www.austinchronicle.com/events/+&cd=15&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 6,
+      "title": "Austin Events 2022 | Live Music, Food & Drinks, Festivals ...",
+      "link": "https://lostinaustin.org/austin-events/",
+      "displayed_link": "https://lostinaustin.org › austin-events",
+      "snippet": "Austin Events 2022 · Featured Events · SantaCon 2022 · Wild Talk Collaboration: Tales on the Trail · PBR Team Series – Austin Gambler Days · Jack Johnson 2022 Summer ...",
+      "snippet_highlighted_words": ["Austin Events", "Events", "Austin"],
+      "about_this_result": {
+        "source": {
+          "description": "lostinaustin.org was first indexed by Google more than 10 years ago",
+          "icon": "https://serpapi.com/searches/62e77eaba1b423c80e24dbaa/images/712f827694dae8ea5a46198576e1109dd502aaedbfb46ac00415ef9a05371a8bcbaa669f527d6746019de572722e1e7c.png"
+        },
+        "keywords": ["events", "austin"],
+        "languages": ["English"],
+        "regions": ["the United States"]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:DRTm7wEwLlUJ:https://lostinaustin.org/austin-events/+&cd=16&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 7,
+      "title": "Upcoming Events in Austin - Things to do in Austin Texas",
+      "link": "https://www.512area.com/events/",
+      "displayed_link": "https://www.512area.com › Things to do",
+      "snippet": "Most Popular Events in Austin · Mean Girls · Mean Girls · International Owl Awareness Day · Owl Glass Candle Pouring Workshop · Mean Girls · David Gray · Mean Girls.",
+      "snippet_highlighted_words": ["Events in Austin"],
+      "sitelinks": {
+        "list": [
+          {
+            "date": "Mean Girls"
+          },
+          {
+            "date": "Mean Girls"
+          },
+          {
+            "date": "International Owl Awareness ..."
+          }
+        ]
+      },
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "tue_aug": null,
+            "wed_aug": null,
+            "thu_aug": null
+          },
+          "extensions": [
+            "Tue, Aug 2",
+            "Mean Girls",
+            "Wed, Aug 3",
+            "Mean Girls",
+            "Thu, Aug 4",
+            "International Owl Awareness ..."
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "512area.com was first indexed by Google more than 10 years ago",
+          "icon": "https://serpapi.com/searches/62e77eaba1b423c80e24dbaa/images/712f827694dae8ea5a46198576e1109dc0edd79e5da79535257a30cdf4b40fd19aef5d8088555438bc872aeaf5c6fcf6.png"
+        },
+        "keywords": ["events", "austin"],
+        "languages": ["English"],
+        "regions": ["the United States"]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:HkfG2Ui4ub4J:https://www.512area.com/events/+&cd=17&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?hl=en&gl=us&q=related:https://www.512area.com/events/+events+in+Austin"
+    },
+    {
+      "position": 8,
+      "title": "Austin Events Calendar - The Austinot",
+      "link": "https://austinot.com/austin-events-calendar",
+      "displayed_link": "https://austinot.com › austin-events-calendar",
+      "snippet": "Check out the Austin Events Calendar on The Austinot for all the best upcoming events in Austin, TX.",
+      "snippet_highlighted_words": ["events in Austin"],
+      "sitelinks": {
+        "list": [
+          {
+            "date": "La Ruta"
+          },
+          {
+            "date": "Disney’s The Lion King at ..."
+          },
+          {
+            "date": "La Ruta"
+          }
+        ]
+      },
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "jul": 31,
+            "aug_la_ruta_mon_aug_disney_s_the_lion_king_at_aug": 1,
+            "aug_la_ruta": 2
+          },
+          "extensions": [
+            "Jul 31",
+            "Aug 1La RutaMon, Aug 1Disney’s The Lion King at ...Aug 1",
+            "Aug 2La Ruta"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "austinot.com was first indexed by Google more than 10 years ago",
+          "icon": "https://serpapi.com/searches/62e77eaba1b423c80e24dbaa/images/712f827694dae8ea5a46198576e1109db6abd0f9a10093b206676ae1ac938ad3a889ec3fd9d5f6fdcc59bfe356d1254a.jpeg"
+        },
+        "keywords": ["events", "austin"],
+        "languages": ["English"],
+        "regions": ["the United States"]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:A4ee_UqEnjoJ:https://austinot.com/austin-events-calendar+&cd=18&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 9,
+      "title": "Austin360: News about restaurants, music and things to do in ...",
+      "link": "https://www.statesman.com/austin360/",
+      "displayed_link": "https://www.statesman.com › austin360",
+      "snippet": "Austin360. Longtime Austin radio host John Aielli has died ... Classic Game Fest packs Palmer Events Center. James Taylor packs Austin's Moody Center, ...",
+      "snippet_highlighted_words": ["Austin", "Events", "Austin's"],
+      "about_this_result": {
+        "source": {
+          "description": "The Austin American-Statesman is the major daily newspaper for Austin, the capital city of Texas. It is owned by Gannett.",
+          "icon": "https://serpapi.com/searches/62e77eaba1b423c80e24dbaa/images/712f827694dae8ea5a46198576e1109d408ebb8bf90377b63ab10ce8bdc6aa285dfeef56c2c37940e00badac8a8224f9.png"
+        },
+        "keywords": ["events", "austin"],
+        "related_keywords": ["austin's"],
+        "languages": ["English"],
+        "regions": ["the United States"]
+      },
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:CvTVKMAn7kEJ:https://www.statesman.com/austin360/+&cd=19&hl=en&ct=clnk&gl=us"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "events in austin today",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=Events+in+Austin+today&sa=X&ved=2ahUKEwjGv5eqjaX5AhWHj4kEHfMYC5gQ1QJ6BAg3EAE"
+    },
+    {
+      "query": "austin events this weekend",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=Austin+events+this+weekend&sa=X&ved=2ahUKEwjGv5eqjaX5AhWHj4kEHfMYC5gQ1QJ6BAg5EAE"
+    },
+    {
+      "query": "free events in austin today",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=Free+events+in+Austin+today&sa=X&ved=2ahUKEwjGv5eqjaX5AhWHj4kEHfMYC5gQ1QJ6BAg6EAE"
+    },
+    {
+      "query": "outdoor events in austin today",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=Outdoor+events+in+Austin+today&sa=X&ved=2ahUKEwjGv5eqjaX5AhWHj4kEHfMYC5gQ1QJ6BAg1EAE"
+    },
+    {
+      "query": "free events in austin this weekend",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=Free+events+in+Austin+this+weekend&sa=X&ved=2ahUKEwjGv5eqjaX5AhWHj4kEHfMYC5gQ1QJ6BAg4EAE"
+    },
+    {
+      "query": "austin events next 14 days",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=Austin+Events+next+14+days&sa=X&ved=2ahUKEwjGv5eqjaX5AhWHj4kEHfMYC5gQ1QJ6BAg0EAE"
+    },
+    {
+      "query": "things to do in austin",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=Things+to+do+in+Austin&sa=X&ved=2ahUKEwjGv5eqjaX5AhWHj4kEHfMYC5gQ1QJ6BAg2EAE"
+    },
+    {
+      "query": "do512",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=Do512&sa=X&ved=2ahUKEwjGv5eqjaX5AhWHj4kEHfMYC5gQ1QJ6BAg7EAE"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=events+in+Austin&hl=en&gl=us&ei=t37nYoaICIefptQP87GswAk&start=10&sa=N&ved=2ahUKEwjGv5eqjaX5AhWHj4kEHfMYC5gQ8NMDegQIARBL",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=events+in+Austin&hl=en&gl=us&ei=t37nYoaICIefptQP87GswAk&start=10&sa=N&ved=2ahUKEwjGv5eqjaX5AhWHj4kEHfMYC5gQ8tMDegQIARA5",
+      "3": "https://www.google.com/search?q=events+in+Austin&hl=en&gl=us&ei=t37nYoaICIefptQP87GswAk&start=20&sa=N&ved=2ahUKEwjGv5eqjaX5AhWHj4kEHfMYC5gQ8tMDegQIARA7",
+      "4": "https://www.google.com/search?q=events+in+Austin&hl=en&gl=us&ei=t37nYoaICIefptQP87GswAk&start=30&sa=N&ved=2ahUKEwjGv5eqjaX5AhWHj4kEHfMYC5gQ8tMDegQIARA9",
+      "5": "https://www.google.com/search?q=events+in+Austin&hl=en&gl=us&ei=t37nYoaICIefptQP87GswAk&start=40&sa=N&ved=2ahUKEwjGv5eqjaX5AhWHj4kEHfMYC5gQ8tMDegQIARA_",
+      "6": "https://www.google.com/search?q=events+in+Austin&hl=en&gl=us&ei=t37nYoaICIefptQP87GswAk&start=50&sa=N&ved=2ahUKEwjGv5eqjaX5AhWHj4kEHfMYC5gQ8tMDegQIARBB",
+      "7": "https://www.google.com/search?q=events+in+Austin&hl=en&gl=us&ei=t37nYoaICIefptQP87GswAk&start=60&sa=N&ved=2ahUKEwjGv5eqjaX5AhWHj4kEHfMYC5gQ8tMDegQIARBD",
+      "8": "https://www.google.com/search?q=events+in+Austin&hl=en&gl=us&ei=t37nYoaICIefptQP87GswAk&start=70&sa=N&ved=2ahUKEwjGv5eqjaX5AhWHj4kEHfMYC5gQ8tMDegQIARBF",
+      "9": "https://www.google.com/search?q=events+in+Austin&hl=en&gl=us&ei=t37nYoaICIefptQP87GswAk&start=80&sa=N&ved=2ahUKEwjGv5eqjaX5AhWHj4kEHfMYC5gQ8tMDegQIARBH",
+      "10": "https://www.google.com/search?q=events+in+Austin&hl=en&gl=us&ei=t37nYoaICIefptQP87GswAk&start=90&sa=N&ved=2ahUKEwjGv5eqjaX5AhWHj4kEHfMYC5gQ8tMDegQIARBJ"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=events+in+Austin&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=events+in+Austin&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=events+in+Austin&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=events+in+Austin&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=events+in+Austin&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=events+in+Austin&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=events+in+Austin&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=events+in+Austin&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=events+in+Austin&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=events+in+Austin&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=events+in+Austin&start=90"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "event",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "build": "webpack --config webpack.prod.js",
+    "dev": "webpack --watch --config webpack.dev.js",
+    "test": "jest ./test/test.ts",
+    "lint": "eslint ./src/*"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.18.10",
+    "@babel/preset-env": "^7.18.10",
+    "@babel/preset-typescript": "^7.18.6",
+    "@prisma/client": "^4.1.1",
+    "@types/node": "^18.6.4",
+    "express": "^4.18.1",
+    "pg": "^8.7.3",
+    "prisma": "^4.1.1"
+  }
+}
