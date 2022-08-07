@@ -1,15 +1,15 @@
+require('dotenv').config();
 const serpapi = require('google-search-results-nodejs');
 import axios from 'axios';
+import { Param } from '../utils/types';
 
 // Show result as JSON
 
-export function querySerpApi(googleQuery: string) {
+export function querySerpApi(
+  googleQuery: string,
+  callback: (response: any) => void
+): void {
   const search = new serpapi.GoogleSearch();
-
-  // TODO: This is going to need to be saved to db or something after it is retrieved
-  const callback = async function (data: any) {
-    return new Promise<any>(data['events_results']);
-  };
 
   const params = {
     q: googleQuery,
@@ -179,3 +179,23 @@ export function queryMeetup(
 
   return axios(config);
 }
+
+export async function queryTicketMaster(
+  params: Param[],
+  size: number = 20
+): Promise<any> {
+  let url = `https://app.ticketmaster.com/discovery/v2/events.json?size=${size}&apikey=${process.env.TICKETMASTER_API_KEY}`;
+  for (const param of params) {
+    url += `&${param.key}=${param.value}`;
+  }
+
+  var config = {
+    method: 'get',
+    url,
+    headers: {},
+  };
+
+  return axios(config);
+}
+
+export function queryPredictHq() {}

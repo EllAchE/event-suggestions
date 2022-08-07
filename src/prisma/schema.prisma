@@ -1,5 +1,6 @@
 generator client {
-  provider = "prisma-client-js"
+  provider        = "prisma-client-js"
+  previewFeatures = ["fullTextSearch"]
 }
 
 datasource db {
@@ -7,7 +8,47 @@ datasource db {
   url      = env("DATABASE_URL")
 }
 
-model test {
-  id    Int    @id @default(autoincrement())
-  field String
+model CalendarEvent {
+  id          Int      @id @unique @default(autoincrement())
+  location    Location @relation(fields: [locationId], references: [id])
+  locationId  Int
+  description String
+  title       String
+  // source      Source
+  source      String
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+}
+
+model Location {
+  id           Int             @id @unique @default(autoincrement())
+  country      String          @default("US")
+  addressLine1 String
+  addressLine2 String?
+  lat          Decimal?
+  long         Decimal?
+  zip          Int?
+  state        String
+  city         String
+  events       CalendarEvent[]
+  User         User[]
+
+  @@unique([city, state, addressLine1])
+  @@unique([lat, long]) // only one with lat/long
+}
+
+// enum Source {
+//   SERPAPI
+//   TICKETMASTER
+//   MEETUP
+// }
+
+model User {
+  id             Int      @id @unique @default(autoincrement())
+  email          String // determine if this should be kept
+  userLocationId Int
+  createdAt      DateTime @default(now())
+  updatedAt      DateTime @updatedAt
+  location       Location @relation(fields: [locationId], references: [id])
+  locationId     Int
 }

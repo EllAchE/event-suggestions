@@ -1,0 +1,2160 @@
+{
+  "data": {
+    "keywordSearch": {
+      "pageInfo": {
+        "hasNextPage": true,
+        "hasPreviousPage": false,
+        "startCursor": "MQ==",
+        "endCursor": "MjA="
+      },
+      "count": 20,
+      "edges": [
+        {
+          "cursor": "MQ==",
+          "node": {
+            "id": "287388270",
+            "result": {
+              "id": "287388270",
+              "token": "287388270",
+              "title": "TVSS Flag Football Team Registration (up to 16 people)",
+              "eventUrl": "https://www.meetup.com/treasure-valley-sports-and-social-club/events/287388270",
+              "description": "",
+              "shortDescription": null,
+              "host": null,
+              "howToFindUs": null,
+              "group": {
+                "logo": {
+                  "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+                  "preview": null
+                },
+                "isPrivate": true,
+                "latitude": 43.61,
+                "longitude": -116.4,
+                "description": "This group is perfect for active, fun people who want to be social and enjoy a variety of activities. Expect variety, such as kickball, pickleball, soccer, cornhole, beach volleyball, dodgeball, tennis, badminton, foot golf, greenbelt bike rides, hikes, Texas Hold'em poker, coffee or happy hours, outdoor restaurant visits/cultural activities, etc. \nMinimum age group requirement is 21; the group leaders take no responsibility or no liability for your personal safety.\nAll cultural backgrounds are respected. \nWe thank our sponsors since 5/6/2022: Treasure Valley Sports Leagues (treasurevalleysportsleagues.com)!\nSee you soon!\nAs a standard policy, if a new member does not show up within two months of joining, he/she may be dropped as a member. Thank you for understanding that we like to protect our group's integrity as much as possible.\nNOTE: As COVID-19 continues to seriously impact our community, for this group, mask wearing or not will not be a debate; if the event requires a mask it will say it and the expectation is that you will be respectful of that. THANK YOU!",
+                "name": "Treasure Valley Sports and Social Club (TVSS)",
+                "city": "Meridian",
+                "state": "ID",
+                "country": "us",
+                "link": "https://www.meetup.com/treasure-valley-sports-and-social-club",
+                "groupPhoto": {
+                  "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+                  "preview": null
+                }
+              },
+              "venue": null,
+              "images": [],
+              "onlineVenue": null,
+              "status": "published",
+              "timeStatus": "UPCOMING",
+              "dateTime": "2022-08-27T10:00-06:00",
+              "duration": "PT2H",
+              "timezone": "America/Denver",
+              "endTime": "2022-08-27T12:00-06:00",
+              "createdAt": null,
+              "priceTier": "paid",
+              "fees": null,
+              "taxType": null,
+              "donation": null,
+              "maxTickets": 0,
+              "waitlistMode": "AUTO",
+              "going": 4,
+              "waiting": 0,
+              "eventType": "online",
+              "isOnline": true,
+              "isNetworkEvent": false,
+              "image": {
+                "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/"
+              },
+              "shortUrl": "https://www.meetup.com/treasure-valley-sports-and-social-club/events/287388270",
+              "hosts": [],
+              "topics": {
+                "edges": [
+                  {
+                    "cursor": "NDE2NQ==",
+                    "node": {
+                      "name": "Flag Football",
+                      "urlkey": "flag-football"
+                    }
+                  },
+                  {
+                    "cursor": "MTQ2NTc=",
+                    "node": {
+                      "name": "Social",
+                      "urlkey": "social"
+                    }
+                  },
+                  {
+                    "cursor": "MTU4MTQ=",
+                    "node": {
+                      "name": "Outdoors",
+                      "urlkey": "outdoors"
+                    }
+                  },
+                  {
+                    "cursor": "MTc4NjU=",
+                    "node": {
+                      "name": "Fun Times",
+                      "urlkey": "fun-times"
+                    }
+                  },
+                  {
+                    "cursor": "MzExNjM=",
+                    "node": {
+                      "name": "Sports and Socials",
+                      "urlkey": "sports-and-socials"
+                    }
+                  }
+                ],
+                "count": 5
+              },
+              "zoomMeetingId": null
+            }
+          }
+        },
+        {
+          "cursor": "Mg==",
+          "node": {
+            "id": "283275583",
+            "result": {
+              "id": "283275583",
+              "token": "xdbdwsydclbjb",
+              "title": "Saturday Morning Soccer",
+              "eventUrl": "https://www.meetup.com/peninsula-pick-up-soccer-meetup-group/events/283275583",
+              "description": "IMPORTANT: everyone bring 1 light/white shirt and 1 dark shirt.\n\nPlease be mindful and update your RSVPs on time to give everyone a fair chance to play in the game.\n\nLast but not least, please be respectful to others and remember that we're all here to have fun and enjoy a good game.\n\nSee you on the field!\n\nThanks",
+              "shortDescription": null,
+              "host": {
+                "name": "Doran",
+                "username": "user 184806635",
+                "city": null,
+                "country": null,
+                "bio": null
+              },
+              "howToFindUs": null,
+              "group": {
+                "logo": {
+                  "baseUrl": "https://secure-content.meetupstatic.com/images/event/",
+                  "preview": "data:image/jpeg;base64,/9j/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wgARCAAXACgDASIAAhEBAxEB/8QAGAABAQADAAAAAAAAAAAAAAAAAAMBBAb/xAAZAQACAwEAAAAAAAAAAAAAAAAAAQIDBAX/2gAMAwEAAhADEAAAAedTd+VEwUTBPcKckYjngO//xAAYEAADAQEAAAAAAAAAAAAAAAABEBEAA//aAAgBAQABBQJV3XVVDljzIf8A/8QAGxEAAQQDAAAAAAAAAAAAAAAAAgADEDEBBBH/2gAIAQMBAT8BXY2HCGkyeSuP/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAEREP/aAAgBAgEBPwGlKNief//EABcQAAMBAAAAAAAAAAAAAAAAACAhMEH/2gAIAQEABj8Cm8D/xAAeEAACAQMFAAAAAAAAAAAAAAAAEQEhQVEQIDFhcf/aAAgBAQABPyFj0MewOjOCIr7glwu7ILNGXGf/2gAMAwEAAgADAAAAEMdcfPfP/8QAGhEAAgIDAAAAAAAAAAAAAAAAAREAEDHB0f/aAAgBAwEBPxB0cUg89A3A5p//xAAXEQEBAQEAAAAAAAAAAAAAAAABABAR/9oACAECAQE/EN7Ejdv/xAAeEAEBAAICAgMAAAAAAAAAAAABEQAhEDFRYZHB4f/aAAgBAQABPxDjo6e+elN+jkq6IM738Z6kts3nQDUw+2WpECyVCarQlMZxPY6ArfzxigtMmrlZ/9k="
+                },
+                "isPrivate": false,
+                "latitude": 37.57,
+                "longitude": -122.32,
+                "description": "<p>Looking for a soccer game on the Peninsula? Well, here you go! </p> \n<p>I want to start with just 1 game a week on Saturday and grow it from there.</p>",
+                "name": "Peninsula Pick-Up Soccer Meetup Group",
+                "city": "San Mateo",
+                "state": "CA",
+                "country": "us",
+                "link": "https://www.meetup.com/peninsula-pick-up-soccer-meetup-group",
+                "groupPhoto": {
+                  "baseUrl": "https://secure-content.meetupstatic.com/images/event/",
+                  "preview": "data:image/jpeg;base64,/9j/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wgARCAAXACgDASIAAhEBAxEB/8QAGAABAQADAAAAAAAAAAAAAAAAAAMBBAb/xAAZAQACAwEAAAAAAAAAAAAAAAAAAQIDBAX/2gAMAwEAAhADEAAAAedTd+VEwUTBPcKckYjngO//xAAYEAADAQEAAAAAAAAAAAAAAAABEBEAA//aAAgBAQABBQJV3XVVDljzIf8A/8QAGxEAAQQDAAAAAAAAAAAAAAAAAgADEDEBBBH/2gAIAQMBAT8BXY2HCGkyeSuP/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAEREP/aAAgBAgEBPwGlKNief//EABcQAAMBAAAAAAAAAAAAAAAAACAhMEH/2gAIAQEABj8Cm8D/xAAeEAACAQMFAAAAAAAAAAAAAAAAEQEhQVEQIDFhcf/aAAgBAQABPyFj0MewOjOCIr7glwu7ILNGXGf/2gAMAwEAAgADAAAAEMdcfPfP/8QAGhEAAgIDAAAAAAAAAAAAAAAAAREAEDHB0f/aAAgBAwEBPxB0cUg89A3A5p//xAAXEQEBAQEAAAAAAAAAAAAAAAABABAR/9oACAECAQE/EN7Ejdv/xAAeEAEBAAICAgMAAAAAAAAAAAABEQAhEDFRYZHB4f/aAAgBAQABPxDjo6e+elN+jkq6IM738Z6kts3nQDUw+2WpECyVCarQlMZxPY6ArfzxigtMmrlZ/9k="
+                }
+              },
+              "venue": {
+                "name": "Osberg Field",
+                "address": "1715 Quesada Way",
+                "city": "Burlingame",
+                "state": "CA",
+                "postalCode": "94010",
+                "lat": 37.587543,
+                "lng": -122.386856,
+                "country": "US"
+              },
+              "images": [],
+              "onlineVenue": null,
+              "status": "published",
+              "timeStatus": "UPCOMING",
+              "dateTime": "2022-08-06T07:00-07:00",
+              "duration": "PT1H30M",
+              "timezone": "America/Los_Angeles",
+              "endTime": "2022-08-06T08:30-07:00",
+              "createdAt": null,
+              "priceTier": "paid",
+              "fees": null,
+              "taxType": null,
+              "donation": null,
+              "maxTickets": 24,
+              "waitlistMode": "AUTO",
+              "going": 24,
+              "waiting": 8,
+              "eventType": "physical",
+              "isOnline": false,
+              "isNetworkEvent": false,
+              "image": {
+                "baseUrl": "https://secure-content.meetupstatic.com/images/event/"
+              },
+              "shortUrl": "https://www.meetup.com/peninsula-pick-up-soccer-meetup-group/events/283275583",
+              "hosts": [
+                {
+                  "name": "Doran",
+                  "username": "user 184806635",
+                  "city": null,
+                  "country": null,
+                  "bio": null
+                },
+                {
+                  "name": "Marc Ian Tantoco",
+                  "username": "user 200783449",
+                  "city": null,
+                  "country": null,
+                  "bio": null
+                },
+                {
+                  "name": "akio",
+                  "username": "user 184601968",
+                  "city": null,
+                  "country": null,
+                  "bio": null
+                },
+                {
+                  "name": "Himanshu Singh",
+                  "username": "user 13472857",
+                  "city": null,
+                  "country": null,
+                  "bio": null
+                }
+              ],
+              "topics": {
+                "edges": [
+                  {
+                    "cursor": "MzM0MA==",
+                    "node": {
+                      "name": "Pickup Soccer",
+                      "urlkey": "pickup-soccer"
+                    }
+                  },
+                  {
+                    "cursor": "NzI3Nw==",
+                    "node": {
+                      "name": "European Football",
+                      "urlkey": "european-football"
+                    }
+                  }
+                ],
+                "count": 2
+              },
+              "zoomMeetingId": null
+            }
+          }
+        },
+        {
+          "cursor": "Mw==",
+          "node": {
+            "id": "283275585",
+            "result": {
+              "id": "283275585",
+              "token": "xdbdwsydclbbc",
+              "title": "Saturday Morning Soccer",
+              "eventUrl": "https://www.meetup.com/peninsula-pick-up-soccer-meetup-group/events/283275585",
+              "description": "IMPORTANT: everyone bring 1 light/white shirt and 1 dark shirt.\n\nPlease be mindful and update your RSVPs on time to give everyone a fair chance to play in the game.\n\nLast but not least, please be respectful to others and remember that we're all here to have fun and enjoy a good game.\n\nSee you on the field!\n\nThanks",
+              "shortDescription": null,
+              "host": {
+                "name": "Doran",
+                "username": "user 184806635",
+                "city": null,
+                "country": null,
+                "bio": null
+              },
+              "howToFindUs": null,
+              "group": {
+                "logo": {
+                  "baseUrl": "https://secure-content.meetupstatic.com/images/event/",
+                  "preview": "data:image/jpeg;base64,/9j/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wgARCAAXACgDASIAAhEBAxEB/8QAGAABAQADAAAAAAAAAAAAAAAAAAMBBAb/xAAZAQACAwEAAAAAAAAAAAAAAAAAAQIDBAX/2gAMAwEAAhADEAAAAedTd+VEwUTBPcKckYjngO//xAAYEAADAQEAAAAAAAAAAAAAAAABEBEAA//aAAgBAQABBQJV3XVVDljzIf8A/8QAGxEAAQQDAAAAAAAAAAAAAAAAAgADEDEBBBH/2gAIAQMBAT8BXY2HCGkyeSuP/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAEREP/aAAgBAgEBPwGlKNief//EABcQAAMBAAAAAAAAAAAAAAAAACAhMEH/2gAIAQEABj8Cm8D/xAAeEAACAQMFAAAAAAAAAAAAAAAAEQEhQVEQIDFhcf/aAAgBAQABPyFj0MewOjOCIr7glwu7ILNGXGf/2gAMAwEAAgADAAAAEMdcfPfP/8QAGhEAAgIDAAAAAAAAAAAAAAAAAREAEDHB0f/aAAgBAwEBPxB0cUg89A3A5p//xAAXEQEBAQEAAAAAAAAAAAAAAAABABAR/9oACAECAQE/EN7Ejdv/xAAeEAEBAAICAgMAAAAAAAAAAAABEQAhEDFRYZHB4f/aAAgBAQABPxDjo6e+elN+jkq6IM738Z6kts3nQDUw+2WpECyVCarQlMZxPY6ArfzxigtMmrlZ/9k="
+                },
+                "isPrivate": false,
+                "latitude": 37.57,
+                "longitude": -122.32,
+                "description": "<p>Looking for a soccer game on the Peninsula? Well, here you go! </p> \n<p>I want to start with just 1 game a week on Saturday and grow it from there.</p>",
+                "name": "Peninsula Pick-Up Soccer Meetup Group",
+                "city": "San Mateo",
+                "state": "CA",
+                "country": "us",
+                "link": "https://www.meetup.com/peninsula-pick-up-soccer-meetup-group",
+                "groupPhoto": {
+                  "baseUrl": "https://secure-content.meetupstatic.com/images/event/",
+                  "preview": "data:image/jpeg;base64,/9j/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wgARCAAXACgDASIAAhEBAxEB/8QAGAABAQADAAAAAAAAAAAAAAAAAAMBBAb/xAAZAQACAwEAAAAAAAAAAAAAAAAAAQIDBAX/2gAMAwEAAhADEAAAAedTd+VEwUTBPcKckYjngO//xAAYEAADAQEAAAAAAAAAAAAAAAABEBEAA//aAAgBAQABBQJV3XVVDljzIf8A/8QAGxEAAQQDAAAAAAAAAAAAAAAAAgADEDEBBBH/2gAIAQMBAT8BXY2HCGkyeSuP/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAEREP/aAAgBAgEBPwGlKNief//EABcQAAMBAAAAAAAAAAAAAAAAACAhMEH/2gAIAQEABj8Cm8D/xAAeEAACAQMFAAAAAAAAAAAAAAAAEQEhQVEQIDFhcf/aAAgBAQABPyFj0MewOjOCIr7glwu7ILNGXGf/2gAMAwEAAgADAAAAEMdcfPfP/8QAGhEAAgIDAAAAAAAAAAAAAAAAAREAEDHB0f/aAAgBAwEBPxB0cUg89A3A5p//xAAXEQEBAQEAAAAAAAAAAAAAAAABABAR/9oACAECAQE/EN7Ejdv/xAAeEAEBAAICAgMAAAAAAAAAAAABEQAhEDFRYZHB4f/aAAgBAQABPxDjo6e+elN+jkq6IM738Z6kts3nQDUw+2WpECyVCarQlMZxPY6ArfzxigtMmrlZ/9k="
+                }
+              },
+              "venue": {
+                "name": "Osberg Field",
+                "address": "1715 Quesada Way",
+                "city": "Burlingame",
+                "state": "CA",
+                "postalCode": "94010",
+                "lat": 37.587543,
+                "lng": -122.386856,
+                "country": "US"
+              },
+              "images": [],
+              "onlineVenue": null,
+              "status": "published",
+              "timeStatus": "UPCOMING",
+              "dateTime": "2022-08-20T07:00-07:00",
+              "duration": "PT1H30M",
+              "timezone": "America/Los_Angeles",
+              "endTime": "2022-08-20T08:30-07:00",
+              "createdAt": null,
+              "priceTier": "paid",
+              "fees": null,
+              "taxType": null,
+              "donation": null,
+              "maxTickets": 24,
+              "waitlistMode": "AUTO",
+              "going": 24,
+              "waiting": 14,
+              "eventType": "physical",
+              "isOnline": false,
+              "isNetworkEvent": false,
+              "image": {
+                "baseUrl": "https://secure-content.meetupstatic.com/images/event/"
+              },
+              "shortUrl": "https://www.meetup.com/peninsula-pick-up-soccer-meetup-group/events/283275585",
+              "hosts": [
+                {
+                  "name": "Doran",
+                  "username": "user 184806635",
+                  "city": null,
+                  "country": null,
+                  "bio": null
+                },
+                {
+                  "name": "Marc Ian Tantoco",
+                  "username": "user 200783449",
+                  "city": null,
+                  "country": null,
+                  "bio": null
+                },
+                {
+                  "name": "akio",
+                  "username": "user 184601968",
+                  "city": null,
+                  "country": null,
+                  "bio": null
+                },
+                {
+                  "name": "Himanshu Singh",
+                  "username": "user 13472857",
+                  "city": null,
+                  "country": null,
+                  "bio": null
+                }
+              ],
+              "topics": {
+                "edges": [
+                  {
+                    "cursor": "MzM0MA==",
+                    "node": {
+                      "name": "Pickup Soccer",
+                      "urlkey": "pickup-soccer"
+                    }
+                  },
+                  {
+                    "cursor": "NzI3Nw==",
+                    "node": {
+                      "name": "European Football",
+                      "urlkey": "european-football"
+                    }
+                  }
+                ],
+                "count": 2
+              },
+              "zoomMeetingId": null
+            }
+          }
+        },
+        {
+          "cursor": "NA==",
+          "node": {
+            "id": "283275584",
+            "result": {
+              "id": "283275584",
+              "token": "xdbdwsydclbrb",
+              "title": "Saturday Morning Soccer",
+              "eventUrl": "https://www.meetup.com/peninsula-pick-up-soccer-meetup-group/events/283275584",
+              "description": "IMPORTANT: everyone bring 1 light/white shirt and 1 dark shirt.\n\nPlease be mindful and update your RSVPs on time to give everyone a fair chance to play in the game.\n\nLast but not least, please be respectful to others and remember that we're all here to have fun and enjoy a good game.\n\nSee you on the field!\n\nThanks",
+              "shortDescription": null,
+              "host": {
+                "name": "Doran",
+                "username": "user 184806635",
+                "city": null,
+                "country": null,
+                "bio": null
+              },
+              "howToFindUs": null,
+              "group": {
+                "logo": {
+                  "baseUrl": "https://secure-content.meetupstatic.com/images/event/",
+                  "preview": "data:image/jpeg;base64,/9j/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wgARCAAXACgDASIAAhEBAxEB/8QAGAABAQADAAAAAAAAAAAAAAAAAAMBBAb/xAAZAQACAwEAAAAAAAAAAAAAAAAAAQIDBAX/2gAMAwEAAhADEAAAAedTd+VEwUTBPcKckYjngO//xAAYEAADAQEAAAAAAAAAAAAAAAABEBEAA//aAAgBAQABBQJV3XVVDljzIf8A/8QAGxEAAQQDAAAAAAAAAAAAAAAAAgADEDEBBBH/2gAIAQMBAT8BXY2HCGkyeSuP/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAEREP/aAAgBAgEBPwGlKNief//EABcQAAMBAAAAAAAAAAAAAAAAACAhMEH/2gAIAQEABj8Cm8D/xAAeEAACAQMFAAAAAAAAAAAAAAAAEQEhQVEQIDFhcf/aAAgBAQABPyFj0MewOjOCIr7glwu7ILNGXGf/2gAMAwEAAgADAAAAEMdcfPfP/8QAGhEAAgIDAAAAAAAAAAAAAAAAAREAEDHB0f/aAAgBAwEBPxB0cUg89A3A5p//xAAXEQEBAQEAAAAAAAAAAAAAAAABABAR/9oACAECAQE/EN7Ejdv/xAAeEAEBAAICAgMAAAAAAAAAAAABEQAhEDFRYZHB4f/aAAgBAQABPxDjo6e+elN+jkq6IM738Z6kts3nQDUw+2WpECyVCarQlMZxPY6ArfzxigtMmrlZ/9k="
+                },
+                "isPrivate": false,
+                "latitude": 37.57,
+                "longitude": -122.32,
+                "description": "<p>Looking for a soccer game on the Peninsula? Well, here you go! </p> \n<p>I want to start with just 1 game a week on Saturday and grow it from there.</p>",
+                "name": "Peninsula Pick-Up Soccer Meetup Group",
+                "city": "San Mateo",
+                "state": "CA",
+                "country": "us",
+                "link": "https://www.meetup.com/peninsula-pick-up-soccer-meetup-group",
+                "groupPhoto": {
+                  "baseUrl": "https://secure-content.meetupstatic.com/images/event/",
+                  "preview": "data:image/jpeg;base64,/9j/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wgARCAAXACgDASIAAhEBAxEB/8QAGAABAQADAAAAAAAAAAAAAAAAAAMBBAb/xAAZAQACAwEAAAAAAAAAAAAAAAAAAQIDBAX/2gAMAwEAAhADEAAAAedTd+VEwUTBPcKckYjngO//xAAYEAADAQEAAAAAAAAAAAAAAAABEBEAA//aAAgBAQABBQJV3XVVDljzIf8A/8QAGxEAAQQDAAAAAAAAAAAAAAAAAgADEDEBBBH/2gAIAQMBAT8BXY2HCGkyeSuP/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAEREP/aAAgBAgEBPwGlKNief//EABcQAAMBAAAAAAAAAAAAAAAAACAhMEH/2gAIAQEABj8Cm8D/xAAeEAACAQMFAAAAAAAAAAAAAAAAEQEhQVEQIDFhcf/aAAgBAQABPyFj0MewOjOCIr7glwu7ILNGXGf/2gAMAwEAAgADAAAAEMdcfPfP/8QAGhEAAgIDAAAAAAAAAAAAAAAAAREAEDHB0f/aAAgBAwEBPxB0cUg89A3A5p//xAAXEQEBAQEAAAAAAAAAAAAAAAABABAR/9oACAECAQE/EN7Ejdv/xAAeEAEBAAICAgMAAAAAAAAAAAABEQAhEDFRYZHB4f/aAAgBAQABPxDjo6e+elN+jkq6IM738Z6kts3nQDUw+2WpECyVCarQlMZxPY6ArfzxigtMmrlZ/9k="
+                }
+              },
+              "venue": {
+                "name": "Osberg Field",
+                "address": "1715 Quesada Way",
+                "city": "Burlingame",
+                "state": "CA",
+                "postalCode": "94010",
+                "lat": 37.587543,
+                "lng": -122.386856,
+                "country": "US"
+              },
+              "images": [],
+              "onlineVenue": null,
+              "status": "published",
+              "timeStatus": "UPCOMING",
+              "dateTime": "2022-08-13T07:00-07:00",
+              "duration": "PT1H30M",
+              "timezone": "America/Los_Angeles",
+              "endTime": "2022-08-13T08:30-07:00",
+              "createdAt": null,
+              "priceTier": "paid",
+              "fees": null,
+              "taxType": null,
+              "donation": null,
+              "maxTickets": 24,
+              "waitlistMode": "AUTO",
+              "going": 24,
+              "waiting": 16,
+              "eventType": "physical",
+              "isOnline": false,
+              "isNetworkEvent": false,
+              "image": {
+                "baseUrl": "https://secure-content.meetupstatic.com/images/event/"
+              },
+              "shortUrl": "https://www.meetup.com/peninsula-pick-up-soccer-meetup-group/events/283275584",
+              "hosts": [
+                {
+                  "name": "Doran",
+                  "username": "user 184806635",
+                  "city": null,
+                  "country": null,
+                  "bio": null
+                },
+                {
+                  "name": "Marc Ian Tantoco",
+                  "username": "user 200783449",
+                  "city": null,
+                  "country": null,
+                  "bio": null
+                },
+                {
+                  "name": "akio",
+                  "username": "user 184601968",
+                  "city": null,
+                  "country": null,
+                  "bio": null
+                },
+                {
+                  "name": "Himanshu Singh",
+                  "username": "user 13472857",
+                  "city": null,
+                  "country": null,
+                  "bio": null
+                }
+              ],
+              "topics": {
+                "edges": [
+                  {
+                    "cursor": "MzM0MA==",
+                    "node": {
+                      "name": "Pickup Soccer",
+                      "urlkey": "pickup-soccer"
+                    }
+                  },
+                  {
+                    "cursor": "NzI3Nw==",
+                    "node": {
+                      "name": "European Football",
+                      "urlkey": "european-football"
+                    }
+                  }
+                ],
+                "count": 2
+              },
+              "zoomMeetingId": null
+            }
+          }
+        },
+        {
+          "cursor": "NQ==",
+          "node": {
+            "id": "283275587",
+            "result": {
+              "id": "283275587",
+              "token": "xdbdwsydclbkc",
+              "title": "Saturday Morning Soccer",
+              "eventUrl": "https://www.meetup.com/peninsula-pick-up-soccer-meetup-group/events/283275587",
+              "description": "IMPORTANT: everyone bring 1 light/white shirt and 1 dark shirt.\n\nPlease be mindful and update your RSVPs on time to give everyone a fair chance to play in the game.\n\nLast but not least, please be respectful to others and remember that we're all here to have fun and enjoy a good game.\n\nSee you on the field!\n\nThanks",
+              "shortDescription": null,
+              "host": {
+                "name": "Doran",
+                "username": "user 184806635",
+                "city": null,
+                "country": null,
+                "bio": null
+              },
+              "howToFindUs": null,
+              "group": {
+                "logo": {
+                  "baseUrl": "https://secure-content.meetupstatic.com/images/event/",
+                  "preview": "data:image/jpeg;base64,/9j/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wgARCAAXACgDASIAAhEBAxEB/8QAGAABAQADAAAAAAAAAAAAAAAAAAMBBAb/xAAZAQACAwEAAAAAAAAAAAAAAAAAAQIDBAX/2gAMAwEAAhADEAAAAedTd+VEwUTBPcKckYjngO//xAAYEAADAQEAAAAAAAAAAAAAAAABEBEAA//aAAgBAQABBQJV3XVVDljzIf8A/8QAGxEAAQQDAAAAAAAAAAAAAAAAAgADEDEBBBH/2gAIAQMBAT8BXY2HCGkyeSuP/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAEREP/aAAgBAgEBPwGlKNief//EABcQAAMBAAAAAAAAAAAAAAAAACAhMEH/2gAIAQEABj8Cm8D/xAAeEAACAQMFAAAAAAAAAAAAAAAAEQEhQVEQIDFhcf/aAAgBAQABPyFj0MewOjOCIr7glwu7ILNGXGf/2gAMAwEAAgADAAAAEMdcfPfP/8QAGhEAAgIDAAAAAAAAAAAAAAAAAREAEDHB0f/aAAgBAwEBPxB0cUg89A3A5p//xAAXEQEBAQEAAAAAAAAAAAAAAAABABAR/9oACAECAQE/EN7Ejdv/xAAeEAEBAAICAgMAAAAAAAAAAAABEQAhEDFRYZHB4f/aAAgBAQABPxDjo6e+elN+jkq6IM738Z6kts3nQDUw+2WpECyVCarQlMZxPY6ArfzxigtMmrlZ/9k="
+                },
+                "isPrivate": false,
+                "latitude": 37.57,
+                "longitude": -122.32,
+                "description": "<p>Looking for a soccer game on the Peninsula? Well, here you go! </p> \n<p>I want to start with just 1 game a week on Saturday and grow it from there.</p>",
+                "name": "Peninsula Pick-Up Soccer Meetup Group",
+                "city": "San Mateo",
+                "state": "CA",
+                "country": "us",
+                "link": "https://www.meetup.com/peninsula-pick-up-soccer-meetup-group",
+                "groupPhoto": {
+                  "baseUrl": "https://secure-content.meetupstatic.com/images/event/",
+                  "preview": "data:image/jpeg;base64,/9j/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wgARCAAXACgDASIAAhEBAxEB/8QAGAABAQADAAAAAAAAAAAAAAAAAAMBBAb/xAAZAQACAwEAAAAAAAAAAAAAAAAAAQIDBAX/2gAMAwEAAhADEAAAAedTd+VEwUTBPcKckYjngO//xAAYEAADAQEAAAAAAAAAAAAAAAABEBEAA//aAAgBAQABBQJV3XVVDljzIf8A/8QAGxEAAQQDAAAAAAAAAAAAAAAAAgADEDEBBBH/2gAIAQMBAT8BXY2HCGkyeSuP/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAEREP/aAAgBAgEBPwGlKNief//EABcQAAMBAAAAAAAAAAAAAAAAACAhMEH/2gAIAQEABj8Cm8D/xAAeEAACAQMFAAAAAAAAAAAAAAAAEQEhQVEQIDFhcf/aAAgBAQABPyFj0MewOjOCIr7glwu7ILNGXGf/2gAMAwEAAgADAAAAEMdcfPfP/8QAGhEAAgIDAAAAAAAAAAAAAAAAAREAEDHB0f/aAAgBAwEBPxB0cUg89A3A5p//xAAXEQEBAQEAAAAAAAAAAAAAAAABABAR/9oACAECAQE/EN7Ejdv/xAAeEAEBAAICAgMAAAAAAAAAAAABEQAhEDFRYZHB4f/aAAgBAQABPxDjo6e+elN+jkq6IM738Z6kts3nQDUw+2WpECyVCarQlMZxPY6ArfzxigtMmrlZ/9k="
+                }
+              },
+              "venue": {
+                "name": "Osberg Field",
+                "address": "1715 Quesada Way",
+                "city": "Burlingame",
+                "state": "CA",
+                "postalCode": "94010",
+                "lat": 37.587543,
+                "lng": -122.386856,
+                "country": "US"
+              },
+              "images": [],
+              "onlineVenue": null,
+              "status": "published",
+              "timeStatus": "UPCOMING",
+              "dateTime": "2022-08-27T07:00-07:00",
+              "duration": "PT1H30M",
+              "timezone": "America/Los_Angeles",
+              "endTime": "2022-08-27T08:30-07:00",
+              "createdAt": null,
+              "priceTier": "paid",
+              "fees": null,
+              "taxType": null,
+              "donation": null,
+              "maxTickets": 24,
+              "waitlistMode": "AUTO",
+              "going": 24,
+              "waiting": 13,
+              "eventType": "physical",
+              "isOnline": false,
+              "isNetworkEvent": false,
+              "image": {
+                "baseUrl": "https://secure-content.meetupstatic.com/images/event/"
+              },
+              "shortUrl": "https://www.meetup.com/peninsula-pick-up-soccer-meetup-group/events/283275587",
+              "hosts": [
+                {
+                  "name": "Doran",
+                  "username": "user 184806635",
+                  "city": null,
+                  "country": null,
+                  "bio": null
+                },
+                {
+                  "name": "Marc Ian Tantoco",
+                  "username": "user 200783449",
+                  "city": null,
+                  "country": null,
+                  "bio": null
+                },
+                {
+                  "name": "akio",
+                  "username": "user 184601968",
+                  "city": null,
+                  "country": null,
+                  "bio": null
+                },
+                {
+                  "name": "Himanshu Singh",
+                  "username": "user 13472857",
+                  "city": null,
+                  "country": null,
+                  "bio": null
+                }
+              ],
+              "topics": {
+                "edges": [
+                  {
+                    "cursor": "MzM0MA==",
+                    "node": {
+                      "name": "Pickup Soccer",
+                      "urlkey": "pickup-soccer"
+                    }
+                  },
+                  {
+                    "cursor": "NzI3Nw==",
+                    "node": {
+                      "name": "European Football",
+                      "urlkey": "european-football"
+                    }
+                  }
+                ],
+                "count": 2
+              },
+              "zoomMeetingId": null
+            }
+          }
+        },
+        {
+          "cursor": "Ng==",
+          "node": {
+            "id": "283448739",
+            "result": {
+              "id": "283448739",
+              "token": "xdbdwsydcmbfb",
+              "title": "Saturday Morning Soccer",
+              "eventUrl": "https://www.meetup.com/peninsula-pick-up-soccer-meetup-group/events/283448739",
+              "description": "IMPORTANT: everyone bring 1 light/white shirt and 1 dark shirt.\n\nPlease be mindful and update your RSVPs on time to give everyone a fair chance to play in the game.\n\nLast but not least, please be respectful to others and remember that we're all here to have fun and enjoy a good game.\n\nSee you on the field!\n\nThanks",
+              "shortDescription": null,
+              "host": {
+                "name": "Doran",
+                "username": "user 184806635",
+                "city": null,
+                "country": null,
+                "bio": null
+              },
+              "howToFindUs": null,
+              "group": {
+                "logo": {
+                  "baseUrl": "https://secure-content.meetupstatic.com/images/event/",
+                  "preview": "data:image/jpeg;base64,/9j/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wgARCAAXACgDASIAAhEBAxEB/8QAGAABAQADAAAAAAAAAAAAAAAAAAMBBAb/xAAZAQACAwEAAAAAAAAAAAAAAAAAAQIDBAX/2gAMAwEAAhADEAAAAedTd+VEwUTBPcKckYjngO//xAAYEAADAQEAAAAAAAAAAAAAAAABEBEAA//aAAgBAQABBQJV3XVVDljzIf8A/8QAGxEAAQQDAAAAAAAAAAAAAAAAAgADEDEBBBH/2gAIAQMBAT8BXY2HCGkyeSuP/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAEREP/aAAgBAgEBPwGlKNief//EABcQAAMBAAAAAAAAAAAAAAAAACAhMEH/2gAIAQEABj8Cm8D/xAAeEAACAQMFAAAAAAAAAAAAAAAAEQEhQVEQIDFhcf/aAAgBAQABPyFj0MewOjOCIr7glwu7ILNGXGf/2gAMAwEAAgADAAAAEMdcfPfP/8QAGhEAAgIDAAAAAAAAAAAAAAAAAREAEDHB0f/aAAgBAwEBPxB0cUg89A3A5p//xAAXEQEBAQEAAAAAAAAAAAAAAAABABAR/9oACAECAQE/EN7Ejdv/xAAeEAEBAAICAgMAAAAAAAAAAAABEQAhEDFRYZHB4f/aAAgBAQABPxDjo6e+elN+jkq6IM738Z6kts3nQDUw+2WpECyVCarQlMZxPY6ArfzxigtMmrlZ/9k="
+                },
+                "isPrivate": false,
+                "latitude": 37.57,
+                "longitude": -122.32,
+                "description": "<p>Looking for a soccer game on the Peninsula? Well, here you go! </p> \n<p>I want to start with just 1 game a week on Saturday and grow it from there.</p>",
+                "name": "Peninsula Pick-Up Soccer Meetup Group",
+                "city": "San Mateo",
+                "state": "CA",
+                "country": "us",
+                "link": "https://www.meetup.com/peninsula-pick-up-soccer-meetup-group",
+                "groupPhoto": {
+                  "baseUrl": "https://secure-content.meetupstatic.com/images/event/",
+                  "preview": "data:image/jpeg;base64,/9j/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wgARCAAXACgDASIAAhEBAxEB/8QAGAABAQADAAAAAAAAAAAAAAAAAAMBBAb/xAAZAQACAwEAAAAAAAAAAAAAAAAAAQIDBAX/2gAMAwEAAhADEAAAAedTd+VEwUTBPcKckYjngO//xAAYEAADAQEAAAAAAAAAAAAAAAABEBEAA//aAAgBAQABBQJV3XVVDljzIf8A/8QAGxEAAQQDAAAAAAAAAAAAAAAAAgADEDEBBBH/2gAIAQMBAT8BXY2HCGkyeSuP/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAEREP/aAAgBAgEBPwGlKNief//EABcQAAMBAAAAAAAAAAAAAAAAACAhMEH/2gAIAQEABj8Cm8D/xAAeEAACAQMFAAAAAAAAAAAAAAAAEQEhQVEQIDFhcf/aAAgBAQABPyFj0MewOjOCIr7glwu7ILNGXGf/2gAMAwEAAgADAAAAEMdcfPfP/8QAGhEAAgIDAAAAAAAAAAAAAAAAAREAEDHB0f/aAAgBAwEBPxB0cUg89A3A5p//xAAXEQEBAQEAAAAAAAAAAAAAAAABABAR/9oACAECAQE/EN7Ejdv/xAAeEAEBAAICAgMAAAAAAAAAAAABEQAhEDFRYZHB4f/aAAgBAQABPxDjo6e+elN+jkq6IM738Z6kts3nQDUw+2WpECyVCarQlMZxPY6ArfzxigtMmrlZ/9k="
+                }
+              },
+              "venue": {
+                "name": "Osberg Field",
+                "address": "1715 Quesada Way",
+                "city": "Burlingame",
+                "state": "CA",
+                "postalCode": "94010",
+                "lat": 37.587543,
+                "lng": -122.386856,
+                "country": "US"
+              },
+              "images": [],
+              "onlineVenue": null,
+              "status": "published",
+              "timeStatus": "UPCOMING",
+              "dateTime": "2022-09-03T07:00-07:00",
+              "duration": "PT1H30M",
+              "timezone": "America/Los_Angeles",
+              "endTime": "2022-09-03T08:30-07:00",
+              "createdAt": null,
+              "priceTier": "paid",
+              "fees": null,
+              "taxType": null,
+              "donation": null,
+              "maxTickets": 24,
+              "waitlistMode": "AUTO",
+              "going": 25,
+              "waiting": 11,
+              "eventType": "physical",
+              "isOnline": false,
+              "isNetworkEvent": false,
+              "image": {
+                "baseUrl": "https://secure-content.meetupstatic.com/images/event/"
+              },
+              "shortUrl": "https://www.meetup.com/peninsula-pick-up-soccer-meetup-group/events/283448739",
+              "hosts": [
+                {
+                  "name": "Doran",
+                  "username": "user 184806635",
+                  "city": null,
+                  "country": null,
+                  "bio": null
+                },
+                {
+                  "name": "Marc Ian Tantoco",
+                  "username": "user 200783449",
+                  "city": null,
+                  "country": null,
+                  "bio": null
+                },
+                {
+                  "name": "akio",
+                  "username": "user 184601968",
+                  "city": null,
+                  "country": null,
+                  "bio": null
+                },
+                {
+                  "name": "Himanshu Singh",
+                  "username": "user 13472857",
+                  "city": null,
+                  "country": null,
+                  "bio": null
+                }
+              ],
+              "topics": {
+                "edges": [
+                  {
+                    "cursor": "MzM0MA==",
+                    "node": {
+                      "name": "Pickup Soccer",
+                      "urlkey": "pickup-soccer"
+                    }
+                  },
+                  {
+                    "cursor": "NzI3Nw==",
+                    "node": {
+                      "name": "European Football",
+                      "urlkey": "european-football"
+                    }
+                  }
+                ],
+                "count": 2
+              },
+              "zoomMeetingId": null
+            }
+          }
+        },
+        {
+          "cursor": "Nw==",
+          "node": {
+            "id": "287247224",
+            "result": {
+              "id": "287247224",
+              "token": "kzbzrsydclbjb",
+              "title": "Flag Football",
+              "eventUrl": "https://www.meetup.com/san-mateo-flag-football/events/287247224",
+              "description": "",
+              "shortDescription": null,
+              "host": null,
+              "howToFindUs": null,
+              "group": {
+                "logo": {
+                  "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+                  "preview": null
+                },
+                "isPrivate": true,
+                "latitude": 37.57,
+                "longitude": -122.32,
+                "description": "Everyone is welcome! \n\nBeen playing almost every weekend for about 4 years now! A lot of folks don't RSVP so don't let that deter you if you're looking to come out.\nBring cleats!\nFacebook Group: \\\n\n[https://www.facebook.com/groups/788750797892824/?ref=bookmarks](https://www.facebook.com/groups/788750797892824/?ref=bookmarks) \\\n\n\n\\\n\n\nGroupMe:\n[https://groupme.com/join_group/41654018/1NdlKz](https://groupme.com/join_group/41654018/1NdlKz) \\\n\n\n\\\n\n\nWe tend to communicate better via GroupMe and Facebook.\n\\",
+                "name": "San Mateo Flag Football",
+                "city": "San Mateo",
+                "state": "CA",
+                "country": "us",
+                "link": "https://www.meetup.com/san-mateo-flag-football",
+                "groupPhoto": {
+                  "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+                  "preview": null
+                }
+              },
+              "venue": null,
+              "images": [],
+              "onlineVenue": null,
+              "status": "published",
+              "timeStatus": "UPCOMING",
+              "dateTime": "2022-08-06T09:30-07:00",
+              "duration": "PT3H30M",
+              "timezone": "America/Los_Angeles",
+              "endTime": "2022-08-06T13:00-07:00",
+              "createdAt": null,
+              "priceTier": "paid",
+              "fees": null,
+              "taxType": null,
+              "donation": null,
+              "maxTickets": 0,
+              "waitlistMode": "AUTO",
+              "going": 12,
+              "waiting": 0,
+              "eventType": "physical",
+              "isOnline": false,
+              "isNetworkEvent": false,
+              "image": {
+                "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/"
+              },
+              "shortUrl": "https://www.meetup.com/san-mateo-flag-football/events/287247224",
+              "hosts": [],
+              "topics": {
+                "edges": [],
+                "count": 0
+              },
+              "zoomMeetingId": null
+            }
+          }
+        },
+        {
+          "cursor": "OA==",
+          "node": {
+            "id": "287402457",
+            "result": {
+              "id": "287402457",
+              "token": "kzbzrsydclbrb",
+              "title": "Flag Football",
+              "eventUrl": "https://www.meetup.com/san-mateo-flag-football/events/287402457",
+              "description": "",
+              "shortDescription": null,
+              "host": null,
+              "howToFindUs": null,
+              "group": {
+                "logo": {
+                  "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+                  "preview": null
+                },
+                "isPrivate": true,
+                "latitude": 37.57,
+                "longitude": -122.32,
+                "description": "Everyone is welcome! \n\nBeen playing almost every weekend for about 4 years now! A lot of folks don't RSVP so don't let that deter you if you're looking to come out.\nBring cleats!\nFacebook Group: \\\n\n[https://www.facebook.com/groups/788750797892824/?ref=bookmarks](https://www.facebook.com/groups/788750797892824/?ref=bookmarks) \\\n\n\n\\\n\n\nGroupMe:\n[https://groupme.com/join_group/41654018/1NdlKz](https://groupme.com/join_group/41654018/1NdlKz) \\\n\n\n\\\n\n\nWe tend to communicate better via GroupMe and Facebook.\n\\",
+                "name": "San Mateo Flag Football",
+                "city": "San Mateo",
+                "state": "CA",
+                "country": "us",
+                "link": "https://www.meetup.com/san-mateo-flag-football",
+                "groupPhoto": {
+                  "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+                  "preview": null
+                }
+              },
+              "venue": null,
+              "images": [],
+              "onlineVenue": null,
+              "status": "published",
+              "timeStatus": "UPCOMING",
+              "dateTime": "2022-08-13T09:30-07:00",
+              "duration": "PT3H30M",
+              "timezone": "America/Los_Angeles",
+              "endTime": "2022-08-13T13:00-07:00",
+              "createdAt": null,
+              "priceTier": "paid",
+              "fees": null,
+              "taxType": null,
+              "donation": null,
+              "maxTickets": 0,
+              "waitlistMode": "AUTO",
+              "going": 1,
+              "waiting": 0,
+              "eventType": "physical",
+              "isOnline": false,
+              "isNetworkEvent": false,
+              "image": {
+                "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/"
+              },
+              "shortUrl": "https://www.meetup.com/san-mateo-flag-football/events/287402457",
+              "hosts": [],
+              "topics": {
+                "edges": [],
+                "count": 0
+              },
+              "zoomMeetingId": null
+            }
+          }
+        },
+        {
+          "cursor": "OQ==",
+          "node": {
+            "id": "287533097",
+            "result": {
+              "id": "287533097",
+              "token": "kzbzrsydclbbc",
+              "title": "Flag Football",
+              "eventUrl": "https://www.meetup.com/san-mateo-flag-football/events/287533097",
+              "description": "",
+              "shortDescription": null,
+              "host": null,
+              "howToFindUs": null,
+              "group": {
+                "logo": {
+                  "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+                  "preview": null
+                },
+                "isPrivate": true,
+                "latitude": 37.57,
+                "longitude": -122.32,
+                "description": "Everyone is welcome! \n\nBeen playing almost every weekend for about 4 years now! A lot of folks don't RSVP so don't let that deter you if you're looking to come out.\nBring cleats!\nFacebook Group: \\\n\n[https://www.facebook.com/groups/788750797892824/?ref=bookmarks](https://www.facebook.com/groups/788750797892824/?ref=bookmarks) \\\n\n\n\\\n\n\nGroupMe:\n[https://groupme.com/join_group/41654018/1NdlKz](https://groupme.com/join_group/41654018/1NdlKz) \\\n\n\n\\\n\n\nWe tend to communicate better via GroupMe and Facebook.\n\\",
+                "name": "San Mateo Flag Football",
+                "city": "San Mateo",
+                "state": "CA",
+                "country": "us",
+                "link": "https://www.meetup.com/san-mateo-flag-football",
+                "groupPhoto": {
+                  "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+                  "preview": null
+                }
+              },
+              "venue": null,
+              "images": [],
+              "onlineVenue": null,
+              "status": "published",
+              "timeStatus": "UPCOMING",
+              "dateTime": "2022-08-20T09:30-07:00",
+              "duration": "PT3H30M",
+              "timezone": "America/Los_Angeles",
+              "endTime": "2022-08-20T13:00-07:00",
+              "createdAt": null,
+              "priceTier": "paid",
+              "fees": null,
+              "taxType": null,
+              "donation": null,
+              "maxTickets": 0,
+              "waitlistMode": "AUTO",
+              "going": 1,
+              "waiting": 0,
+              "eventType": "physical",
+              "isOnline": false,
+              "isNetworkEvent": false,
+              "image": {
+                "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/"
+              },
+              "shortUrl": "https://www.meetup.com/san-mateo-flag-football/events/287533097",
+              "hosts": [],
+              "topics": {
+                "edges": [],
+                "count": 0
+              },
+              "zoomMeetingId": null
+            }
+          }
+        },
+        {
+          "cursor": "MTA=",
+          "node": {
+            "id": "287521881",
+            "result": {
+              "id": "287521881",
+              "token": "pwnxsrydclbzb",
+              "title": "$10 Esports Tournaments",
+              "eventUrl": "https://www.meetup.com/sports-monster-denver-flag-football-group/events/287521881",
+              "description": "Esports Tournaments start this Friday! Registration closes Wednesday night! Tournaments are $10 to enter, round robin format, 1-2 weeks long. The top 4 teams will make the final bracket! $5 of every entry fee will go towards the prize pool for that tournament! CASH PRIZES. Here's the list of tournaments, now introducing FORTNITE AND WARZONE\n\nFIFA 20 - Xbox/PS4\nMadden 20 - Xbox/Ps4\nNHL 20 - Xbox/PS4\nNBA 2K20 - Xbox/PS4\nRocket League 2v2 - cross platform\nCall of Duty Gunfight 2v2 - cross platform\nCall of Duty Warzone Solos - cross platform\nFortnite Solos - cross platform\n\nTo get signed up NOW, follow the link below. Download the app, create a free profile, and join our SPORTS MONSTER organization!\nhttps://missioncontrol.gg/play-sportsmonster",
+              "shortDescription": null,
+              "host": {
+                "name": "Matt Wolf",
+                "username": "user 304660748",
+                "city": null,
+                "country": null,
+                "bio": null
+              },
+              "howToFindUs": null,
+              "group": {
+                "logo": {
+                  "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+                  "preview": null
+                },
+                "isPrivate": false,
+                "latitude": 39.71,
+                "longitude": -105.07,
+                "description": "<p>Welcome to the Sports Monster Denver Flag Football Group!</p>\n<p>Our goal is to create a fun, social environment where football enthusiasts or men &amp; women just looking to stay active can have some fun tossing the pigskin around.</p>\n<p>You can participate in the following:</p>\n<p>8-week leagues with scheduled opponents each week, all equipment provided, standings, and a playoff tournament <br>One-day tournaments <br>Pickup nights where players can come out each week and get in a few games without the commitment of a full league <br>College and professional watch parties, and more <br>Feel free to RSVP for as much football action as you'd like and if you have any questions don't hesitate to email me: mattv@sportsmonster.net. I'd love to hear from you!</p>",
+                "name": "Sports Monster Denver Flag Football Group",
+                "city": "Denver",
+                "state": "CO",
+                "country": "us",
+                "link": "https://www.meetup.com/sports-monster-denver-flag-football-group",
+                "groupPhoto": {
+                  "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+                  "preview": null
+                }
+              },
+              "venue": {
+                "name": "Online event",
+                "address": "",
+                "city": "",
+                "state": "",
+                "postalCode": "",
+                "lat": -8.521147,
+                "lng": 179.1962,
+                "country": ""
+              },
+              "images": [
+                {
+                  "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+                  "preview": null
+                }
+              ],
+              "onlineVenue": null,
+              "status": "published",
+              "timeStatus": "UPCOMING",
+              "dateTime": "2022-08-19T19:00-06:00",
+              "duration": "PT2H",
+              "timezone": "America/Denver",
+              "endTime": "2022-08-19T21:00-06:00",
+              "createdAt": null,
+              "priceTier": "paid",
+              "fees": null,
+              "taxType": null,
+              "donation": null,
+              "maxTickets": 0,
+              "waitlistMode": "AUTO",
+              "going": 1,
+              "waiting": 0,
+              "eventType": "online",
+              "isOnline": true,
+              "isNetworkEvent": false,
+              "image": {
+                "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/"
+              },
+              "shortUrl": "https://www.meetup.com/sports-monster-denver-flag-football-group/events/287521881",
+              "hosts": [
+                {
+                  "name": "Matt Wolf",
+                  "username": "user 304660748",
+                  "city": null,
+                  "country": null,
+                  "bio": null
+                }
+              ],
+              "topics": {
+                "edges": [],
+                "count": 0
+              },
+              "zoomMeetingId": null
+            }
+          }
+        },
+        {
+          "cursor": "MTE=",
+          "node": {
+            "id": "287296131",
+            "result": {
+              "id": "287296131",
+              "token": "jgpxsrydclblb",
+              "title": "NHL 20, NBA 2K20, and Call of Duty",
+              "eventUrl": "https://www.meetup.com/sports-monster-denver-flag-football-group/events/287296131",
+              "description": "Our newest $5 Recreational and $10 Competitive esports leagues start Monday! Registration closes Saturday night! Games starting Monday include the following:\n\nNHL 20 - Xbox/PS4\nNBA 2K20 - Xbox/PS4\nCall of Duty 2v2 Gunfight and Solo Warzone (cross platform)\n\nAgain, REC level leagues are $5 to enter and COMP leagues are $10, both levels give out cash prizes to winners. Games will be played every Monday and Wednesday night, but you have the ability to reschedule games as needed. For more info and to get signed up, follow the link below NOW!\nhttps://missioncontrol.gg/play-sportsmonster",
+              "shortDescription": null,
+              "host": {
+                "name": "Matt Wolf",
+                "username": "user 304660748",
+                "city": null,
+                "country": null,
+                "bio": null
+              },
+              "howToFindUs": null,
+              "group": {
+                "logo": {
+                  "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+                  "preview": null
+                },
+                "isPrivate": false,
+                "latitude": 39.71,
+                "longitude": -105.07,
+                "description": "<p>Welcome to the Sports Monster Denver Flag Football Group!</p>\n<p>Our goal is to create a fun, social environment where football enthusiasts or men &amp; women just looking to stay active can have some fun tossing the pigskin around.</p>\n<p>You can participate in the following:</p>\n<p>8-week leagues with scheduled opponents each week, all equipment provided, standings, and a playoff tournament <br>One-day tournaments <br>Pickup nights where players can come out each week and get in a few games without the commitment of a full league <br>College and professional watch parties, and more <br>Feel free to RSVP for as much football action as you'd like and if you have any questions don't hesitate to email me: mattv@sportsmonster.net. I'd love to hear from you!</p>",
+                "name": "Sports Monster Denver Flag Football Group",
+                "city": "Denver",
+                "state": "CO",
+                "country": "us",
+                "link": "https://www.meetup.com/sports-monster-denver-flag-football-group",
+                "groupPhoto": {
+                  "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+                  "preview": null
+                }
+              },
+              "venue": {
+                "name": "Online event",
+                "address": "",
+                "city": "",
+                "state": "",
+                "postalCode": "",
+                "lat": -8.521147,
+                "lng": 179.1962,
+                "country": ""
+              },
+              "images": [
+                {
+                  "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+                  "preview": null
+                }
+              ],
+              "onlineVenue": null,
+              "status": "published",
+              "timeStatus": "UPCOMING",
+              "dateTime": "2022-08-08T19:00-06:00",
+              "duration": "PT2H",
+              "timezone": "America/Denver",
+              "endTime": "2022-08-08T21:00-06:00",
+              "createdAt": null,
+              "priceTier": "paid",
+              "fees": null,
+              "taxType": null,
+              "donation": null,
+              "maxTickets": 0,
+              "waitlistMode": "AUTO",
+              "going": 2,
+              "waiting": 0,
+              "eventType": "online",
+              "isOnline": true,
+              "isNetworkEvent": false,
+              "image": {
+                "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/"
+              },
+              "shortUrl": "https://www.meetup.com/sports-monster-denver-flag-football-group/events/287296131",
+              "hosts": [
+                {
+                  "name": "Matt Wolf",
+                  "username": "user 304660748",
+                  "city": null,
+                  "country": null,
+                  "bio": null
+                }
+              ],
+              "topics": {
+                "edges": [],
+                "count": 0
+              },
+              "zoomMeetingId": null
+            }
+          }
+        },
+        {
+          "cursor": "MTI=",
+          "node": {
+            "id": "287339946",
+            "result": {
+              "id": "287339946",
+              "token": "ngpxsrydclbnb",
+              "title": "Fortnite, FIFA 20, Madden 20, and 2v2 Rocket League",
+              "eventUrl": "https://www.meetup.com/sports-monster-denver-flag-football-group/events/287339946",
+              "description": "Our newest $5 Recreational and $10 Competitive esports leagues start Wednesday! Registration closes Monday night! Games starting Wednesday include the following:\n\nFortnite (cross platform)\nFIFA 20 - Xbox/PS4\nMadden 20 - Xbox/PS4\nRocket League 2v2 (cross platform)\n\nAgain, REC level leagues are $5 to enter and COMP leagues are $10, both levels give out cash prizes to winners. Games will be played every Wednesday and Friday night, but you have the ability to reschedule games as needed. For more info and to get signed up, follow the link below NOW!\nhttps://missioncontrol.gg/play-sportsmonster",
+              "shortDescription": null,
+              "host": {
+                "name": "Matt Wolf",
+                "username": "user 304660748",
+                "city": null,
+                "country": null,
+                "bio": null
+              },
+              "howToFindUs": null,
+              "group": {
+                "logo": {
+                  "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+                  "preview": null
+                },
+                "isPrivate": false,
+                "latitude": 39.71,
+                "longitude": -105.07,
+                "description": "<p>Welcome to the Sports Monster Denver Flag Football Group!</p>\n<p>Our goal is to create a fun, social environment where football enthusiasts or men &amp; women just looking to stay active can have some fun tossing the pigskin around.</p>\n<p>You can participate in the following:</p>\n<p>8-week leagues with scheduled opponents each week, all equipment provided, standings, and a playoff tournament <br>One-day tournaments <br>Pickup nights where players can come out each week and get in a few games without the commitment of a full league <br>College and professional watch parties, and more <br>Feel free to RSVP for as much football action as you'd like and if you have any questions don't hesitate to email me: mattv@sportsmonster.net. I'd love to hear from you!</p>",
+                "name": "Sports Monster Denver Flag Football Group",
+                "city": "Denver",
+                "state": "CO",
+                "country": "us",
+                "link": "https://www.meetup.com/sports-monster-denver-flag-football-group",
+                "groupPhoto": {
+                  "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+                  "preview": null
+                }
+              },
+              "venue": {
+                "name": "Online event",
+                "address": "",
+                "city": "",
+                "state": "",
+                "postalCode": "",
+                "lat": -8.521147,
+                "lng": 179.1962,
+                "country": ""
+              },
+              "images": [
+                {
+                  "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+                  "preview": null
+                }
+              ],
+              "onlineVenue": null,
+              "status": "published",
+              "timeStatus": "UPCOMING",
+              "dateTime": "2022-08-10T19:00-06:00",
+              "duration": "PT2H",
+              "timezone": "America/Denver",
+              "endTime": "2022-08-10T21:00-06:00",
+              "createdAt": null,
+              "priceTier": "paid",
+              "fees": null,
+              "taxType": null,
+              "donation": null,
+              "maxTickets": 0,
+              "waitlistMode": "AUTO",
+              "going": 1,
+              "waiting": 0,
+              "eventType": "online",
+              "isOnline": true,
+              "isNetworkEvent": false,
+              "image": {
+                "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/"
+              },
+              "shortUrl": "https://www.meetup.com/sports-monster-denver-flag-football-group/events/287339946",
+              "hosts": [
+                {
+                  "name": "Matt Wolf",
+                  "username": "user 304660748",
+                  "city": null,
+                  "country": null,
+                  "bio": null
+                }
+              ],
+              "topics": {
+                "edges": [],
+                "count": 0
+              },
+              "zoomMeetingId": null
+            }
+          }
+        },
+        {
+          "cursor": "MTM=",
+          "node": {
+            "id": "287584451",
+            "result": {
+              "id": "287584451",
+              "token": "jgpxsrydclbdc",
+              "title": "NHL 20, NBA 2K20, and Call of Duty",
+              "eventUrl": "https://www.meetup.com/sports-monster-denver-flag-football-group/events/287584451",
+              "description": "Our newest $5 Recreational and $10 Competitive esports leagues start Monday! Registration closes Saturday night! Games starting Monday include the following:\n\nNHL 20 - Xbox/PS4\nNBA 2K20 - Xbox/PS4\nCall of Duty 2v2 Gunfight and Solo Warzone (cross platform)\n\nAgain, REC level leagues are $5 to enter and COMP leagues are $10, both levels give out cash prizes to winners. Games will be played every Monday and Wednesday night, but you have the ability to reschedule games as needed. For more info and to get signed up, follow the link below NOW!\nhttps://missioncontrol.gg/play-sportsmonster",
+              "shortDescription": null,
+              "host": {
+                "name": "Matt Wolf",
+                "username": "user 304660748",
+                "city": null,
+                "country": null,
+                "bio": null
+              },
+              "howToFindUs": null,
+              "group": {
+                "logo": {
+                  "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+                  "preview": null
+                },
+                "isPrivate": false,
+                "latitude": 39.71,
+                "longitude": -105.07,
+                "description": "<p>Welcome to the Sports Monster Denver Flag Football Group!</p>\n<p>Our goal is to create a fun, social environment where football enthusiasts or men &amp; women just looking to stay active can have some fun tossing the pigskin around.</p>\n<p>You can participate in the following:</p>\n<p>8-week leagues with scheduled opponents each week, all equipment provided, standings, and a playoff tournament <br>One-day tournaments <br>Pickup nights where players can come out each week and get in a few games without the commitment of a full league <br>College and professional watch parties, and more <br>Feel free to RSVP for as much football action as you'd like and if you have any questions don't hesitate to email me: mattv@sportsmonster.net. I'd love to hear from you!</p>",
+                "name": "Sports Monster Denver Flag Football Group",
+                "city": "Denver",
+                "state": "CO",
+                "country": "us",
+                "link": "https://www.meetup.com/sports-monster-denver-flag-football-group",
+                "groupPhoto": {
+                  "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+                  "preview": null
+                }
+              },
+              "venue": {
+                "name": "Online event",
+                "address": "",
+                "city": "",
+                "state": "",
+                "postalCode": "",
+                "lat": -8.521147,
+                "lng": 179.1962,
+                "country": ""
+              },
+              "images": [
+                {
+                  "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+                  "preview": null
+                }
+              ],
+              "onlineVenue": null,
+              "status": "published",
+              "timeStatus": "UPCOMING",
+              "dateTime": "2022-08-22T19:00-06:00",
+              "duration": "PT2H",
+              "timezone": "America/Denver",
+              "endTime": "2022-08-22T21:00-06:00",
+              "createdAt": null,
+              "priceTier": "paid",
+              "fees": null,
+              "taxType": null,
+              "donation": null,
+              "maxTickets": 0,
+              "waitlistMode": "AUTO",
+              "going": 1,
+              "waiting": 0,
+              "eventType": "online",
+              "isOnline": true,
+              "isNetworkEvent": false,
+              "image": {
+                "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/"
+              },
+              "shortUrl": "https://www.meetup.com/sports-monster-denver-flag-football-group/events/287584451",
+              "hosts": [
+                {
+                  "name": "Matt Wolf",
+                  "username": "user 304660748",
+                  "city": null,
+                  "country": null,
+                  "bio": null
+                }
+              ],
+              "topics": {
+                "edges": [],
+                "count": 0
+              },
+              "zoomMeetingId": null
+            }
+          }
+        },
+        {
+          "cursor": "MTQ=",
+          "node": {
+            "id": "287630380",
+            "result": {
+              "id": "287630380",
+              "token": "ngpxsrydclbgc",
+              "title": "Fortnite, FIFA 20, Madden 20, and 2v2 Rocket League",
+              "eventUrl": "https://www.meetup.com/sports-monster-denver-flag-football-group/events/287630380",
+              "description": "Our newest $5 Recreational and $10 Competitive esports leagues start Wednesday! Registration closes Monday night! Games starting Wednesday include the following:\n\nFortnite (cross platform)\nFIFA 20 - Xbox/PS4\nMadden 20 - Xbox/PS4\nRocket League 2v2 (cross platform)\n\nAgain, REC level leagues are $5 to enter and COMP leagues are $10, both levels give out cash prizes to winners. Games will be played every Wednesday and Friday night, but you have the ability to reschedule games as needed. For more info and to get signed up, follow the link below NOW!\nhttps://missioncontrol.gg/play-sportsmonster",
+              "shortDescription": null,
+              "host": {
+                "name": "Matt Wolf",
+                "username": "user 304660748",
+                "city": null,
+                "country": null,
+                "bio": null
+              },
+              "howToFindUs": null,
+              "group": {
+                "logo": {
+                  "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+                  "preview": null
+                },
+                "isPrivate": false,
+                "latitude": 39.71,
+                "longitude": -105.07,
+                "description": "<p>Welcome to the Sports Monster Denver Flag Football Group!</p>\n<p>Our goal is to create a fun, social environment where football enthusiasts or men &amp; women just looking to stay active can have some fun tossing the pigskin around.</p>\n<p>You can participate in the following:</p>\n<p>8-week leagues with scheduled opponents each week, all equipment provided, standings, and a playoff tournament <br>One-day tournaments <br>Pickup nights where players can come out each week and get in a few games without the commitment of a full league <br>College and professional watch parties, and more <br>Feel free to RSVP for as much football action as you'd like and if you have any questions don't hesitate to email me: mattv@sportsmonster.net. I'd love to hear from you!</p>",
+                "name": "Sports Monster Denver Flag Football Group",
+                "city": "Denver",
+                "state": "CO",
+                "country": "us",
+                "link": "https://www.meetup.com/sports-monster-denver-flag-football-group",
+                "groupPhoto": {
+                  "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+                  "preview": null
+                }
+              },
+              "venue": {
+                "name": "Online event",
+                "address": "",
+                "city": "",
+                "state": "",
+                "postalCode": "",
+                "lat": -8.521147,
+                "lng": 179.1962,
+                "country": ""
+              },
+              "images": [
+                {
+                  "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/",
+                  "preview": null
+                }
+              ],
+              "onlineVenue": null,
+              "status": "published",
+              "timeStatus": "UPCOMING",
+              "dateTime": "2022-08-24T19:00-06:00",
+              "duration": "PT2H",
+              "timezone": "America/Denver",
+              "endTime": "2022-08-24T21:00-06:00",
+              "createdAt": null,
+              "priceTier": "paid",
+              "fees": null,
+              "taxType": null,
+              "donation": null,
+              "maxTickets": 0,
+              "waitlistMode": "AUTO",
+              "going": 1,
+              "waiting": 0,
+              "eventType": "online",
+              "isOnline": true,
+              "isNetworkEvent": false,
+              "image": {
+                "baseUrl": "https://secure-content.meetupstatic.com/images/classic-events/"
+              },
+              "shortUrl": "https://www.meetup.com/sports-monster-denver-flag-football-group/events/287630380",
+              "hosts": [
+                {
+                  "name": "Matt Wolf",
+                  "username": "user 304660748",
+                  "city": null,
+                  "country": null,
+                  "bio": null
+                }
+              ],
+              "topics": {
+                "edges": [],
+                "count": 0
+              },
+              "zoomMeetingId": null
+            }
+          }
+        },
+        {
+          "cursor": "MTU=",
+          "node": {
+            "id": "283448740",
+            "result": {
+              "id": "283448740",
+              "token": "xdbdwsydcmbnb",
+              "title": "Saturday Morning Soccer",
+              "eventUrl": "https://www.meetup.com/peninsula-pick-up-soccer-meetup-group/events/283448740",
+              "description": "IMPORTANT: everyone bring 1 light/white shirt and 1 dark shirt.\n\nPlease be mindful and update your RSVPs on time to give everyone a fair chance to play in the game.\n\nLast but not least, please be respectful to others and remember that we're all here to have fun and enjoy a good game.\n\nSee you on the field!\n\nThanks",
+              "shortDescription": null,
+              "host": {
+                "name": "Doran",
+                "username": "user 184806635",
+                "city": null,
+                "country": null,
+                "bio": null
+              },
+              "howToFindUs": null,
+              "group": {
+                "logo": {
+                  "baseUrl": "https://secure-content.meetupstatic.com/images/event/",
+                  "preview": "data:image/jpeg;base64,/9j/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wgARCAAXACgDASIAAhEBAxEB/8QAGAABAQADAAAAAAAAAAAAAAAAAAMBBAb/xAAZAQACAwEAAAAAAAAAAAAAAAAAAQIDBAX/2gAMAwEAAhADEAAAAedTd+VEwUTBPcKckYjngO//xAAYEAADAQEAAAAAAAAAAAAAAAABEBEAA//aAAgBAQABBQJV3XVVDljzIf8A/8QAGxEAAQQDAAAAAAAAAAAAAAAAAgADEDEBBBH/2gAIAQMBAT8BXY2HCGkyeSuP/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAEREP/aAAgBAgEBPwGlKNief//EABcQAAMBAAAAAAAAAAAAAAAAACAhMEH/2gAIAQEABj8Cm8D/xAAeEAACAQMFAAAAAAAAAAAAAAAAEQEhQVEQIDFhcf/aAAgBAQABPyFj0MewOjOCIr7glwu7ILNGXGf/2gAMAwEAAgADAAAAEMdcfPfP/8QAGhEAAgIDAAAAAAAAAAAAAAAAAREAEDHB0f/aAAgBAwEBPxB0cUg89A3A5p//xAAXEQEBAQEAAAAAAAAAAAAAAAABABAR/9oACAECAQE/EN7Ejdv/xAAeEAEBAAICAgMAAAAAAAAAAAABEQAhEDFRYZHB4f/aAAgBAQABPxDjo6e+elN+jkq6IM738Z6kts3nQDUw+2WpECyVCarQlMZxPY6ArfzxigtMmrlZ/9k="
+                },
+                "isPrivate": false,
+                "latitude": 37.57,
+                "longitude": -122.32,
+                "description": "<p>Looking for a soccer game on the Peninsula? Well, here you go! </p> \n<p>I want to start with just 1 game a week on Saturday and grow it from there.</p>",
+                "name": "Peninsula Pick-Up Soccer Meetup Group",
+                "city": "San Mateo",
+                "state": "CA",
+                "country": "us",
+                "link": "https://www.meetup.com/peninsula-pick-up-soccer-meetup-group",
+                "groupPhoto": {
+                  "baseUrl": "https://secure-content.meetupstatic.com/images/event/",
+                  "preview": "data:image/jpeg;base64,/9j/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wgARCAAXACgDASIAAhEBAxEB/8QAGAABAQADAAAAAAAAAAAAAAAAAAMBBAb/xAAZAQACAwEAAAAAAAAAAAAAAAAAAQIDBAX/2gAMAwEAAhADEAAAAedTd+VEwUTBPcKckYjngO//xAAYEAADAQEAAAAAAAAAAAAAAAABEBEAA//aAAgBAQABBQJV3XVVDljzIf8A/8QAGxEAAQQDAAAAAAAAAAAAAAAAAgADEDEBBBH/2gAIAQMBAT8BXY2HCGkyeSuP/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAEREP/aAAgBAgEBPwGlKNief//EABcQAAMBAAAAAAAAAAAAAAAAACAhMEH/2gAIAQEABj8Cm8D/xAAeEAACAQMFAAAAAAAAAAAAAAAAEQEhQVEQIDFhcf/aAAgBAQABPyFj0MewOjOCIr7glwu7ILNGXGf/2gAMAwEAAgADAAAAEMdcfPfP/8QAGhEAAgIDAAAAAAAAAAAAAAAAAREAEDHB0f/aAAgBAwEBPxB0cUg89A3A5p//xAAXEQEBAQEAAAAAAAAAAAAAAAABABAR/9oACAECAQE/EN7Ejdv/xAAeEAEBAAICAgMAAAAAAAAAAAABEQAhEDFRYZHB4f/aAAgBAQABPxDjo6e+elN+jkq6IM738Z6kts3nQDUw+2WpECyVCarQlMZxPY6ArfzxigtMmrlZ/9k="
+                }
+              },
+              "venue": {
+                "name": "Osberg Field",
+                "address": "1715 Quesada Way",
+                "city": "Burlingame",
+                "state": "CA",
+                "postalCode": "94010",
+                "lat": 37.587543,
+                "lng": -122.386856,
+                "country": "US"
+              },
+              "images": [],
+              "onlineVenue": null,
+              "status": "published",
+              "timeStatus": "UPCOMING",
+              "dateTime": "2022-09-10T07:00-07:00",
+              "duration": "PT1H30M",
+              "timezone": "America/Los_Angeles",
+              "endTime": "2022-09-10T08:30-07:00",
+              "createdAt": null,
+              "priceTier": "paid",
+              "fees": null,
+              "taxType": null,
+              "donation": null,
+              "maxTickets": 24,
+              "waitlistMode": "AUTO",
+              "going": 25,
+              "waiting": 12,
+              "eventType": "physical",
+              "isOnline": false,
+              "isNetworkEvent": false,
+              "image": {
+                "baseUrl": "https://secure-content.meetupstatic.com/images/event/"
+              },
+              "shortUrl": "https://www.meetup.com/peninsula-pick-up-soccer-meetup-group/events/283448740",
+              "hosts": [
+                {
+                  "name": "Doran",
+                  "username": "user 184806635",
+                  "city": null,
+                  "country": null,
+                  "bio": null
+                },
+                {
+                  "name": "Marc Ian Tantoco",
+                  "username": "user 200783449",
+                  "city": null,
+                  "country": null,
+                  "bio": null
+                },
+                {
+                  "name": "akio",
+                  "username": "user 184601968",
+                  "city": null,
+                  "country": null,
+                  "bio": null
+                },
+                {
+                  "name": "Himanshu Singh",
+                  "username": "user 13472857",
+                  "city": null,
+                  "country": null,
+                  "bio": null
+                }
+              ],
+              "topics": {
+                "edges": [
+                  {
+                    "cursor": "MzM0MA==",
+                    "node": {
+                      "name": "Pickup Soccer",
+                      "urlkey": "pickup-soccer"
+                    }
+                  },
+                  {
+                    "cursor": "NzI3Nw==",
+                    "node": {
+                      "name": "European Football",
+                      "urlkey": "european-football"
+                    }
+                  }
+                ],
+                "count": 2
+              },
+              "zoomMeetingId": null
+            }
+          }
+        },
+        {
+          "cursor": "MTY=",
+          "node": {
+            "id": "283448741",
+            "result": {
+              "id": "283448741",
+              "token": "xdbdwsydcmbwb",
+              "title": "Saturday Morning Soccer",
+              "eventUrl": "https://www.meetup.com/peninsula-pick-up-soccer-meetup-group/events/283448741",
+              "description": "IMPORTANT: everyone bring 1 light/white shirt and 1 dark shirt.\n\nPlease be mindful and update your RSVPs on time to give everyone a fair chance to play in the game.\n\nLast but not least, please be respectful to others and remember that we're all here to have fun and enjoy a good game.\n\nSee you on the field!\n\nThanks",
+              "shortDescription": null,
+              "host": {
+                "name": "Doran",
+                "username": "user 184806635",
+                "city": null,
+                "country": null,
+                "bio": null
+              },
+              "howToFindUs": null,
+              "group": {
+                "logo": {
+                  "baseUrl": "https://secure-content.meetupstatic.com/images/event/",
+                  "preview": "data:image/jpeg;base64,/9j/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wgARCAAXACgDASIAAhEBAxEB/8QAGAABAQADAAAAAAAAAAAAAAAAAAMBBAb/xAAZAQACAwEAAAAAAAAAAAAAAAAAAQIDBAX/2gAMAwEAAhADEAAAAedTd+VEwUTBPcKckYjngO//xAAYEAADAQEAAAAAAAAAAAAAAAABEBEAA//aAAgBAQABBQJV3XVVDljzIf8A/8QAGxEAAQQDAAAAAAAAAAAAAAAAAgADEDEBBBH/2gAIAQMBAT8BXY2HCGkyeSuP/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAEREP/aAAgBAgEBPwGlKNief//EABcQAAMBAAAAAAAAAAAAAAAAACAhMEH/2gAIAQEABj8Cm8D/xAAeEAACAQMFAAAAAAAAAAAAAAAAEQEhQVEQIDFhcf/aAAgBAQABPyFj0MewOjOCIr7glwu7ILNGXGf/2gAMAwEAAgADAAAAEMdcfPfP/8QAGhEAAgIDAAAAAAAAAAAAAAAAAREAEDHB0f/aAAgBAwEBPxB0cUg89A3A5p//xAAXEQEBAQEAAAAAAAAAAAAAAAABABAR/9oACAECAQE/EN7Ejdv/xAAeEAEBAAICAgMAAAAAAAAAAAABEQAhEDFRYZHB4f/aAAgBAQABPxDjo6e+elN+jkq6IM738Z6kts3nQDUw+2WpECyVCarQlMZxPY6ArfzxigtMmrlZ/9k="
+                },
+                "isPrivate": false,
+                "latitude": 37.57,
+                "longitude": -122.32,
+                "description": "<p>Looking for a soccer game on the Peninsula? Well, here you go! </p> \n<p>I want to start with just 1 game a week on Saturday and grow it from there.</p>",
+                "name": "Peninsula Pick-Up Soccer Meetup Group",
+                "city": "San Mateo",
+                "state": "CA",
+                "country": "us",
+                "link": "https://www.meetup.com/peninsula-pick-up-soccer-meetup-group",
+                "groupPhoto": {
+                  "baseUrl": "https://secure-content.meetupstatic.com/images/event/",
+                  "preview": "data:image/jpeg;base64,/9j/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wgARCAAXACgDASIAAhEBAxEB/8QAGAABAQADAAAAAAAAAAAAAAAAAAMBBAb/xAAZAQACAwEAAAAAAAAAAAAAAAAAAQIDBAX/2gAMAwEAAhADEAAAAedTd+VEwUTBPcKckYjngO//xAAYEAADAQEAAAAAAAAAAAAAAAABEBEAA//aAAgBAQABBQJV3XVVDljzIf8A/8QAGxEAAQQDAAAAAAAAAAAAAAAAAgADEDEBBBH/2gAIAQMBAT8BXY2HCGkyeSuP/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAEREP/aAAgBAgEBPwGlKNief//EABcQAAMBAAAAAAAAAAAAAAAAACAhMEH/2gAIAQEABj8Cm8D/xAAeEAACAQMFAAAAAAAAAAAAAAAAEQEhQVEQIDFhcf/aAAgBAQABPyFj0MewOjOCIr7glwu7ILNGXGf/2gAMAwEAAgADAAAAEMdcfPfP/8QAGhEAAgIDAAAAAAAAAAAAAAAAAREAEDHB0f/aAAgBAwEBPxB0cUg89A3A5p//xAAXEQEBAQEAAAAAAAAAAAAAAAABABAR/9oACAECAQE/EN7Ejdv/xAAeEAEBAAICAgMAAAAAAAAAAAABEQAhEDFRYZHB4f/aAAgBAQABPxDjo6e+elN+jkq6IM738Z6kts3nQDUw+2WpECyVCarQlMZxPY6ArfzxigtMmrlZ/9k="
+                }
+              },
+              "venue": {
+                "name": "Osberg Field",
+                "address": "1715 Quesada Way",
+                "city": "Burlingame",
+                "state": "CA",
+                "postalCode": "94010",
+                "lat": 37.587543,
+                "lng": -122.386856,
+                "country": "US"
+              },
+              "images": [],
+              "onlineVenue": null,
+              "status": "published",
+              "timeStatus": "UPCOMING",
+              "dateTime": "2022-09-17T07:00-07:00",
+              "duration": "PT1H30M",
+              "timezone": "America/Los_Angeles",
+              "endTime": "2022-09-17T08:30-07:00",
+              "createdAt": null,
+              "priceTier": "paid",
+              "fees": null,
+              "taxType": null,
+              "donation": null,
+              "maxTickets": 24,
+              "waitlistMode": "AUTO",
+              "going": 25,
+              "waiting": 10,
+              "eventType": "physical",
+              "isOnline": false,
+              "isNetworkEvent": false,
+              "image": {
+                "baseUrl": "https://secure-content.meetupstatic.com/images/event/"
+              },
+              "shortUrl": "https://www.meetup.com/peninsula-pick-up-soccer-meetup-group/events/283448741",
+              "hosts": [
+                {
+                  "name": "Doran",
+                  "username": "user 184806635",
+                  "city": null,
+                  "country": null,
+                  "bio": null
+                },
+                {
+                  "name": "Marc Ian Tantoco",
+                  "username": "user 200783449",
+                  "city": null,
+                  "country": null,
+                  "bio": null
+                },
+                {
+                  "name": "akio",
+                  "username": "user 184601968",
+                  "city": null,
+                  "country": null,
+                  "bio": null
+                },
+                {
+                  "name": "Himanshu Singh",
+                  "username": "user 13472857",
+                  "city": null,
+                  "country": null,
+                  "bio": null
+                }
+              ],
+              "topics": {
+                "edges": [
+                  {
+                    "cursor": "MzM0MA==",
+                    "node": {
+                      "name": "Pickup Soccer",
+                      "urlkey": "pickup-soccer"
+                    }
+                  },
+                  {
+                    "cursor": "NzI3Nw==",
+                    "node": {
+                      "name": "European Football",
+                      "urlkey": "european-football"
+                    }
+                  }
+                ],
+                "count": 2
+              },
+              "zoomMeetingId": null
+            }
+          }
+        },
+        {
+          "cursor": "MTc=",
+          "node": {
+            "id": "285959138",
+            "result": {
+              "id": "285959138",
+              "token": "dlqrvsydclbsb",
+              "title": "Friendly Sunday Morning Game",
+              "eventUrl": "https://www.meetup.com/peninsula-pick-up-soccer-meetup-group/events/285959138",
+              "description": "Fun Friendly Game. Please be nice.\nPlease bring 1 dark & 1 light shirt.\nMask is optional if you are vaccinated and not feeling ill.",
+              "shortDescription": null,
+              "host": {
+                "name": "Linh T",
+                "username": "user 201143120",
+                "city": null,
+                "country": null,
+                "bio": null
+              },
+              "howToFindUs": null,
+              "group": {
+                "logo": {
+                  "baseUrl": "https://secure-content.meetupstatic.com/images/event/",
+                  "preview": "data:image/jpeg;base64,/9j/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wgARCAAXACgDASIAAhEBAxEB/8QAGAABAQADAAAAAAAAAAAAAAAAAAMBBAb/xAAZAQACAwEAAAAAAAAAAAAAAAAAAQIDBAX/2gAMAwEAAhADEAAAAedTd+VEwUTBPcKckYjngO//xAAYEAADAQEAAAAAAAAAAAAAAAABEBEAA//aAAgBAQABBQJV3XVVDljzIf8A/8QAGxEAAQQDAAAAAAAAAAAAAAAAAgADEDEBBBH/2gAIAQMBAT8BXY2HCGkyeSuP/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAEREP/aAAgBAgEBPwGlKNief//EABcQAAMBAAAAAAAAAAAAAAAAACAhMEH/2gAIAQEABj8Cm8D/xAAeEAACAQMFAAAAAAAAAAAAAAAAEQEhQVEQIDFhcf/aAAgBAQABPyFj0MewOjOCIr7glwu7ILNGXGf/2gAMAwEAAgADAAAAEMdcfPfP/8QAGhEAAgIDAAAAAAAAAAAAAAAAAREAEDHB0f/aAAgBAwEBPxB0cUg89A3A5p//xAAXEQEBAQEAAAAAAAAAAAAAAAABABAR/9oACAECAQE/EN7Ejdv/xAAeEAEBAAICAgMAAAAAAAAAAAABEQAhEDFRYZHB4f/aAAgBAQABPxDjo6e+elN+jkq6IM738Z6kts3nQDUw+2WpECyVCarQlMZxPY6ArfzxigtMmrlZ/9k="
+                },
+                "isPrivate": false,
+                "latitude": 37.57,
+                "longitude": -122.32,
+                "description": "<p>Looking for a soccer game on the Peninsula? Well, here you go! </p> \n<p>I want to start with just 1 game a week on Saturday and grow it from there.</p>",
+                "name": "Peninsula Pick-Up Soccer Meetup Group",
+                "city": "San Mateo",
+                "state": "CA",
+                "country": "us",
+                "link": "https://www.meetup.com/peninsula-pick-up-soccer-meetup-group",
+                "groupPhoto": {
+                  "baseUrl": "https://secure-content.meetupstatic.com/images/event/",
+                  "preview": "data:image/jpeg;base64,/9j/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wgARCAAXACgDASIAAhEBAxEB/8QAGAABAQADAAAAAAAAAAAAAAAAAAMBBAb/xAAZAQACAwEAAAAAAAAAAAAAAAAAAQIDBAX/2gAMAwEAAhADEAAAAedTd+VEwUTBPcKckYjngO//xAAYEAADAQEAAAAAAAAAAAAAAAABEBEAA//aAAgBAQABBQJV3XVVDljzIf8A/8QAGxEAAQQDAAAAAAAAAAAAAAAAAgADEDEBBBH/2gAIAQMBAT8BXY2HCGkyeSuP/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAEREP/aAAgBAgEBPwGlKNief//EABcQAAMBAAAAAAAAAAAAAAAAACAhMEH/2gAIAQEABj8Cm8D/xAAeEAACAQMFAAAAAAAAAAAAAAAAEQEhQVEQIDFhcf/aAAgBAQABPyFj0MewOjOCIr7glwu7ILNGXGf/2gAMAwEAAgADAAAAEMdcfPfP/8QAGhEAAgIDAAAAAAAAAAAAAAAAAREAEDHB0f/aAAgBAwEBPxB0cUg89A3A5p//xAAXEQEBAQEAAAAAAAAAAAAAAAABABAR/9oACAECAQE/EN7Ejdv/xAAeEAEBAAICAgMAAAAAAAAAAAABEQAhEDFRYZHB4f/aAAgBAQABPxDjo6e+elN+jkq6IM738Z6kts3nQDUw+2WpECyVCarQlMZxPY6ArfzxigtMmrlZ/9k="
+                }
+              },
+              "venue": {
+                "name": "Los Prados Park",
+                "address": "1837 Bahia St",
+                "city": "San Mateo",
+                "state": "CA",
+                "postalCode": "94403",
+                "lat": 37.541225,
+                "lng": -122.28225,
+                "country": "us"
+              },
+              "images": [],
+              "onlineVenue": null,
+              "status": "published",
+              "timeStatus": "UPCOMING",
+              "dateTime": "2022-08-14T07:30-07:00",
+              "duration": "PT2H",
+              "timezone": "America/Los_Angeles",
+              "endTime": "2022-08-14T09:30-07:00",
+              "createdAt": null,
+              "priceTier": "paid",
+              "fees": null,
+              "taxType": null,
+              "donation": null,
+              "maxTickets": 26,
+              "waitlistMode": "AUTO",
+              "going": 16,
+              "waiting": 0,
+              "eventType": "physical",
+              "isOnline": false,
+              "isNetworkEvent": false,
+              "image": {
+                "baseUrl": "https://secure-content.meetupstatic.com/images/event/"
+              },
+              "shortUrl": "https://www.meetup.com/peninsula-pick-up-soccer-meetup-group/events/285959138",
+              "hosts": [
+                {
+                  "name": "Linh T",
+                  "username": "user 201143120",
+                  "city": null,
+                  "country": null,
+                  "bio": null
+                }
+              ],
+              "topics": {
+                "edges": [
+                  {
+                    "cursor": "MzM0MA==",
+                    "node": {
+                      "name": "Pickup Soccer",
+                      "urlkey": "pickup-soccer"
+                    }
+                  },
+                  {
+                    "cursor": "NzI3Nw==",
+                    "node": {
+                      "name": "European Football",
+                      "urlkey": "european-football"
+                    }
+                  },
+                  {
+                    "cursor": "MTkzMjM=",
+                    "node": {
+                      "name": "Sports Fan",
+                      "urlkey": "sports-fan"
+                    }
+                  },
+                  {
+                    "cursor": "MjU3MzI=",
+                    "node": {
+                      "name": "Soccer",
+                      "urlkey": "soccer"
+                    }
+                  },
+                  {
+                    "cursor": "MzExNjM=",
+                    "node": {
+                      "name": "Sports and Socials",
+                      "urlkey": "sports-and-socials"
+                    }
+                  }
+                ],
+                "count": 5
+              },
+              "zoomMeetingId": null
+            }
+          }
+        },
+        {
+          "cursor": "MTg=",
+          "node": {
+            "id": "285959132",
+            "result": {
+              "id": "285959132",
+              "token": "dlqrvsydclbkb",
+              "title": "Friendly Sunday Morning Game",
+              "eventUrl": "https://www.meetup.com/peninsula-pick-up-soccer-meetup-group/events/285959132",
+              "description": "Fun Friendly Game. Please be nice.\nPlease bring 1 dark & 1 light shirt.\nMask is optional if you are vaccinated and not feeling ill.",
+              "shortDescription": null,
+              "host": {
+                "name": "Linh T",
+                "username": "user 201143120",
+                "city": null,
+                "country": null,
+                "bio": null
+              },
+              "howToFindUs": null,
+              "group": {
+                "logo": {
+                  "baseUrl": "https://secure-content.meetupstatic.com/images/event/",
+                  "preview": "data:image/jpeg;base64,/9j/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wgARCAAXACgDASIAAhEBAxEB/8QAGAABAQADAAAAAAAAAAAAAAAAAAMBBAb/xAAZAQACAwEAAAAAAAAAAAAAAAAAAQIDBAX/2gAMAwEAAhADEAAAAedTd+VEwUTBPcKckYjngO//xAAYEAADAQEAAAAAAAAAAAAAAAABEBEAA//aAAgBAQABBQJV3XVVDljzIf8A/8QAGxEAAQQDAAAAAAAAAAAAAAAAAgADEDEBBBH/2gAIAQMBAT8BXY2HCGkyeSuP/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAEREP/aAAgBAgEBPwGlKNief//EABcQAAMBAAAAAAAAAAAAAAAAACAhMEH/2gAIAQEABj8Cm8D/xAAeEAACAQMFAAAAAAAAAAAAAAAAEQEhQVEQIDFhcf/aAAgBAQABPyFj0MewOjOCIr7glwu7ILNGXGf/2gAMAwEAAgADAAAAEMdcfPfP/8QAGhEAAgIDAAAAAAAAAAAAAAAAAREAEDHB0f/aAAgBAwEBPxB0cUg89A3A5p//xAAXEQEBAQEAAAAAAAAAAAAAAAABABAR/9oACAECAQE/EN7Ejdv/xAAeEAEBAAICAgMAAAAAAAAAAAABEQAhEDFRYZHB4f/aAAgBAQABPxDjo6e+elN+jkq6IM738Z6kts3nQDUw+2WpECyVCarQlMZxPY6ArfzxigtMmrlZ/9k="
+                },
+                "isPrivate": false,
+                "latitude": 37.57,
+                "longitude": -122.32,
+                "description": "<p>Looking for a soccer game on the Peninsula? Well, here you go! </p> \n<p>I want to start with just 1 game a week on Saturday and grow it from there.</p>",
+                "name": "Peninsula Pick-Up Soccer Meetup Group",
+                "city": "San Mateo",
+                "state": "CA",
+                "country": "us",
+                "link": "https://www.meetup.com/peninsula-pick-up-soccer-meetup-group",
+                "groupPhoto": {
+                  "baseUrl": "https://secure-content.meetupstatic.com/images/event/",
+                  "preview": "data:image/jpeg;base64,/9j/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wgARCAAXACgDASIAAhEBAxEB/8QAGAABAQADAAAAAAAAAAAAAAAAAAMBBAb/xAAZAQACAwEAAAAAAAAAAAAAAAAAAQIDBAX/2gAMAwEAAhADEAAAAedTd+VEwUTBPcKckYjngO//xAAYEAADAQEAAAAAAAAAAAAAAAABEBEAA//aAAgBAQABBQJV3XVVDljzIf8A/8QAGxEAAQQDAAAAAAAAAAAAAAAAAgADEDEBBBH/2gAIAQMBAT8BXY2HCGkyeSuP/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAEREP/aAAgBAgEBPwGlKNief//EABcQAAMBAAAAAAAAAAAAAAAAACAhMEH/2gAIAQEABj8Cm8D/xAAeEAACAQMFAAAAAAAAAAAAAAAAEQEhQVEQIDFhcf/aAAgBAQABPyFj0MewOjOCIr7glwu7ILNGXGf/2gAMAwEAAgADAAAAEMdcfPfP/8QAGhEAAgIDAAAAAAAAAAAAAAAAAREAEDHB0f/aAAgBAwEBPxB0cUg89A3A5p//xAAXEQEBAQEAAAAAAAAAAAAAAAABABAR/9oACAECAQE/EN7Ejdv/xAAeEAEBAAICAgMAAAAAAAAAAAABEQAhEDFRYZHB4f/aAAgBAQABPxDjo6e+elN+jkq6IM738Z6kts3nQDUw+2WpECyVCarQlMZxPY6ArfzxigtMmrlZ/9k="
+                }
+              },
+              "venue": {
+                "name": "Los Prados Park",
+                "address": "1837 Bahia St",
+                "city": "San Mateo",
+                "state": "CA",
+                "postalCode": "94403",
+                "lat": 37.541225,
+                "lng": -122.28225,
+                "country": "us"
+              },
+              "images": [],
+              "onlineVenue": null,
+              "status": "published",
+              "timeStatus": "UPCOMING",
+              "dateTime": "2022-08-07T07:30-07:00",
+              "duration": "PT2H",
+              "timezone": "America/Los_Angeles",
+              "endTime": "2022-08-07T09:30-07:00",
+              "createdAt": null,
+              "priceTier": "paid",
+              "fees": null,
+              "taxType": null,
+              "donation": null,
+              "maxTickets": 26,
+              "waitlistMode": "AUTO",
+              "going": 26,
+              "waiting": 4,
+              "eventType": "physical",
+              "isOnline": false,
+              "isNetworkEvent": false,
+              "image": {
+                "baseUrl": "https://secure-content.meetupstatic.com/images/event/"
+              },
+              "shortUrl": "https://www.meetup.com/peninsula-pick-up-soccer-meetup-group/events/285959132",
+              "hosts": [
+                {
+                  "name": "Linh T",
+                  "username": "user 201143120",
+                  "city": null,
+                  "country": null,
+                  "bio": null
+                }
+              ],
+              "topics": {
+                "edges": [
+                  {
+                    "cursor": "MzM0MA==",
+                    "node": {
+                      "name": "Pickup Soccer",
+                      "urlkey": "pickup-soccer"
+                    }
+                  },
+                  {
+                    "cursor": "NzI3Nw==",
+                    "node": {
+                      "name": "European Football",
+                      "urlkey": "european-football"
+                    }
+                  },
+                  {
+                    "cursor": "MTkzMjM=",
+                    "node": {
+                      "name": "Sports Fan",
+                      "urlkey": "sports-fan"
+                    }
+                  },
+                  {
+                    "cursor": "MjU3MzI=",
+                    "node": {
+                      "name": "Soccer",
+                      "urlkey": "soccer"
+                    }
+                  },
+                  {
+                    "cursor": "MzExNjM=",
+                    "node": {
+                      "name": "Sports and Socials",
+                      "urlkey": "sports-and-socials"
+                    }
+                  }
+                ],
+                "count": 5
+              },
+              "zoomMeetingId": null
+            }
+          }
+        },
+        {
+          "cursor": "MTk=",
+          "node": {
+            "id": "285959141",
+            "result": {
+              "id": "285959141",
+              "token": "dlqrvsydclbcc",
+              "title": "Friendly Sunday Morning Game",
+              "eventUrl": "https://www.meetup.com/peninsula-pick-up-soccer-meetup-group/events/285959141",
+              "description": "Fun Friendly Game. Please be nice.\nPlease bring 1 dark & 1 light shirt.\nMask is optional if you are vaccinated and not feeling ill.",
+              "shortDescription": null,
+              "host": {
+                "name": "Linh T",
+                "username": "user 201143120",
+                "city": null,
+                "country": null,
+                "bio": null
+              },
+              "howToFindUs": null,
+              "group": {
+                "logo": {
+                  "baseUrl": "https://secure-content.meetupstatic.com/images/event/",
+                  "preview": "data:image/jpeg;base64,/9j/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wgARCAAXACgDASIAAhEBAxEB/8QAGAABAQADAAAAAAAAAAAAAAAAAAMBBAb/xAAZAQACAwEAAAAAAAAAAAAAAAAAAQIDBAX/2gAMAwEAAhADEAAAAedTd+VEwUTBPcKckYjngO//xAAYEAADAQEAAAAAAAAAAAAAAAABEBEAA//aAAgBAQABBQJV3XVVDljzIf8A/8QAGxEAAQQDAAAAAAAAAAAAAAAAAgADEDEBBBH/2gAIAQMBAT8BXY2HCGkyeSuP/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAEREP/aAAgBAgEBPwGlKNief//EABcQAAMBAAAAAAAAAAAAAAAAACAhMEH/2gAIAQEABj8Cm8D/xAAeEAACAQMFAAAAAAAAAAAAAAAAEQEhQVEQIDFhcf/aAAgBAQABPyFj0MewOjOCIr7glwu7ILNGXGf/2gAMAwEAAgADAAAAEMdcfPfP/8QAGhEAAgIDAAAAAAAAAAAAAAAAAREAEDHB0f/aAAgBAwEBPxB0cUg89A3A5p//xAAXEQEBAQEAAAAAAAAAAAAAAAABABAR/9oACAECAQE/EN7Ejdv/xAAeEAEBAAICAgMAAAAAAAAAAAABEQAhEDFRYZHB4f/aAAgBAQABPxDjo6e+elN+jkq6IM738Z6kts3nQDUw+2WpECyVCarQlMZxPY6ArfzxigtMmrlZ/9k="
+                },
+                "isPrivate": false,
+                "latitude": 37.57,
+                "longitude": -122.32,
+                "description": "<p>Looking for a soccer game on the Peninsula? Well, here you go! </p> \n<p>I want to start with just 1 game a week on Saturday and grow it from there.</p>",
+                "name": "Peninsula Pick-Up Soccer Meetup Group",
+                "city": "San Mateo",
+                "state": "CA",
+                "country": "us",
+                "link": "https://www.meetup.com/peninsula-pick-up-soccer-meetup-group",
+                "groupPhoto": {
+                  "baseUrl": "https://secure-content.meetupstatic.com/images/event/",
+                  "preview": "data:image/jpeg;base64,/9j/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wgARCAAXACgDASIAAhEBAxEB/8QAGAABAQADAAAAAAAAAAAAAAAAAAMBBAb/xAAZAQACAwEAAAAAAAAAAAAAAAAAAQIDBAX/2gAMAwEAAhADEAAAAedTd+VEwUTBPcKckYjngO//xAAYEAADAQEAAAAAAAAAAAAAAAABEBEAA//aAAgBAQABBQJV3XVVDljzIf8A/8QAGxEAAQQDAAAAAAAAAAAAAAAAAgADEDEBBBH/2gAIAQMBAT8BXY2HCGkyeSuP/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAEREP/aAAgBAgEBPwGlKNief//EABcQAAMBAAAAAAAAAAAAAAAAACAhMEH/2gAIAQEABj8Cm8D/xAAeEAACAQMFAAAAAAAAAAAAAAAAEQEhQVEQIDFhcf/aAAgBAQABPyFj0MewOjOCIr7glwu7ILNGXGf/2gAMAwEAAgADAAAAEMdcfPfP/8QAGhEAAgIDAAAAAAAAAAAAAAAAAREAEDHB0f/aAAgBAwEBPxB0cUg89A3A5p//xAAXEQEBAQEAAAAAAAAAAAAAAAABABAR/9oACAECAQE/EN7Ejdv/xAAeEAEBAAICAgMAAAAAAAAAAAABEQAhEDFRYZHB4f/aAAgBAQABPxDjo6e+elN+jkq6IM738Z6kts3nQDUw+2WpECyVCarQlMZxPY6ArfzxigtMmrlZ/9k="
+                }
+              },
+              "venue": {
+                "name": "Los Prados Park",
+                "address": "1837 Bahia St",
+                "city": "San Mateo",
+                "state": "CA",
+                "postalCode": "94403",
+                "lat": 37.541225,
+                "lng": -122.28225,
+                "country": "us"
+              },
+              "images": [],
+              "onlineVenue": null,
+              "status": "published",
+              "timeStatus": "UPCOMING",
+              "dateTime": "2022-08-21T07:30-07:00",
+              "duration": "PT2H",
+              "timezone": "America/Los_Angeles",
+              "endTime": "2022-08-21T09:30-07:00",
+              "createdAt": null,
+              "priceTier": "paid",
+              "fees": null,
+              "taxType": null,
+              "donation": null,
+              "maxTickets": 26,
+              "waitlistMode": "AUTO",
+              "going": 12,
+              "waiting": 0,
+              "eventType": "physical",
+              "isOnline": false,
+              "isNetworkEvent": false,
+              "image": {
+                "baseUrl": "https://secure-content.meetupstatic.com/images/event/"
+              },
+              "shortUrl": "https://www.meetup.com/peninsula-pick-up-soccer-meetup-group/events/285959141",
+              "hosts": [
+                {
+                  "name": "Linh T",
+                  "username": "user 201143120",
+                  "city": null,
+                  "country": null,
+                  "bio": null
+                }
+              ],
+              "topics": {
+                "edges": [
+                  {
+                    "cursor": "MzM0MA==",
+                    "node": {
+                      "name": "Pickup Soccer",
+                      "urlkey": "pickup-soccer"
+                    }
+                  },
+                  {
+                    "cursor": "NzI3Nw==",
+                    "node": {
+                      "name": "European Football",
+                      "urlkey": "european-football"
+                    }
+                  },
+                  {
+                    "cursor": "MTkzMjM=",
+                    "node": {
+                      "name": "Sports Fan",
+                      "urlkey": "sports-fan"
+                    }
+                  },
+                  {
+                    "cursor": "MjU3MzI=",
+                    "node": {
+                      "name": "Soccer",
+                      "urlkey": "soccer"
+                    }
+                  },
+                  {
+                    "cursor": "MzExNjM=",
+                    "node": {
+                      "name": "Sports and Socials",
+                      "urlkey": "sports-and-socials"
+                    }
+                  }
+                ],
+                "count": 5
+              },
+              "zoomMeetingId": null
+            }
+          }
+        },
+        {
+          "cursor": "MjA=",
+          "node": {
+            "id": "285959144",
+            "result": {
+              "id": "285959144",
+              "token": "dlqrvsydclblc",
+              "title": "Friendly Sunday Morning Game",
+              "eventUrl": "https://www.meetup.com/peninsula-pick-up-soccer-meetup-group/events/285959144",
+              "description": "Fun Friendly Game. Please be nice.\nPlease bring 1 dark & 1 light shirt.\nMask is optional if you are vaccinated and not feeling ill.",
+              "shortDescription": null,
+              "host": {
+                "name": "Linh T",
+                "username": "user 201143120",
+                "city": null,
+                "country": null,
+                "bio": null
+              },
+              "howToFindUs": null,
+              "group": {
+                "logo": {
+                  "baseUrl": "https://secure-content.meetupstatic.com/images/event/",
+                  "preview": "data:image/jpeg;base64,/9j/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wgARCAAXACgDASIAAhEBAxEB/8QAGAABAQADAAAAAAAAAAAAAAAAAAMBBAb/xAAZAQACAwEAAAAAAAAAAAAAAAAAAQIDBAX/2gAMAwEAAhADEAAAAedTd+VEwUTBPcKckYjngO//xAAYEAADAQEAAAAAAAAAAAAAAAABEBEAA//aAAgBAQABBQJV3XVVDljzIf8A/8QAGxEAAQQDAAAAAAAAAAAAAAAAAgADEDEBBBH/2gAIAQMBAT8BXY2HCGkyeSuP/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAEREP/aAAgBAgEBPwGlKNief//EABcQAAMBAAAAAAAAAAAAAAAAACAhMEH/2gAIAQEABj8Cm8D/xAAeEAACAQMFAAAAAAAAAAAAAAAAEQEhQVEQIDFhcf/aAAgBAQABPyFj0MewOjOCIr7glwu7ILNGXGf/2gAMAwEAAgADAAAAEMdcfPfP/8QAGhEAAgIDAAAAAAAAAAAAAAAAAREAEDHB0f/aAAgBAwEBPxB0cUg89A3A5p//xAAXEQEBAQEAAAAAAAAAAAAAAAABABAR/9oACAECAQE/EN7Ejdv/xAAeEAEBAAICAgMAAAAAAAAAAAABEQAhEDFRYZHB4f/aAAgBAQABPxDjo6e+elN+jkq6IM738Z6kts3nQDUw+2WpECyVCarQlMZxPY6ArfzxigtMmrlZ/9k="
+                },
+                "isPrivate": false,
+                "latitude": 37.57,
+                "longitude": -122.32,
+                "description": "<p>Looking for a soccer game on the Peninsula? Well, here you go! </p> \n<p>I want to start with just 1 game a week on Saturday and grow it from there.</p>",
+                "name": "Peninsula Pick-Up Soccer Meetup Group",
+                "city": "San Mateo",
+                "state": "CA",
+                "country": "us",
+                "link": "https://www.meetup.com/peninsula-pick-up-soccer-meetup-group",
+                "groupPhoto": {
+                  "baseUrl": "https://secure-content.meetupstatic.com/images/event/",
+                  "preview": "data:image/jpeg;base64,/9j/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wgARCAAXACgDASIAAhEBAxEB/8QAGAABAQADAAAAAAAAAAAAAAAAAAMBBAb/xAAZAQACAwEAAAAAAAAAAAAAAAAAAQIDBAX/2gAMAwEAAhADEAAAAedTd+VEwUTBPcKckYjngO//xAAYEAADAQEAAAAAAAAAAAAAAAABEBEAA//aAAgBAQABBQJV3XVVDljzIf8A/8QAGxEAAQQDAAAAAAAAAAAAAAAAAgADEDEBBBH/2gAIAQMBAT8BXY2HCGkyeSuP/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAEREP/aAAgBAgEBPwGlKNief//EABcQAAMBAAAAAAAAAAAAAAAAACAhMEH/2gAIAQEABj8Cm8D/xAAeEAACAQMFAAAAAAAAAAAAAAAAEQEhQVEQIDFhcf/aAAgBAQABPyFj0MewOjOCIr7glwu7ILNGXGf/2gAMAwEAAgADAAAAEMdcfPfP/8QAGhEAAgIDAAAAAAAAAAAAAAAAAREAEDHB0f/aAAgBAwEBPxB0cUg89A3A5p//xAAXEQEBAQEAAAAAAAAAAAAAAAABABAR/9oACAECAQE/EN7Ejdv/xAAeEAEBAAICAgMAAAAAAAAAAAABEQAhEDFRYZHB4f/aAAgBAQABPxDjo6e+elN+jkq6IM738Z6kts3nQDUw+2WpECyVCarQlMZxPY6ArfzxigtMmrlZ/9k="
+                }
+              },
+              "venue": {
+                "name": "Los Prados Park",
+                "address": "1837 Bahia St",
+                "city": "San Mateo",
+                "state": "CA",
+                "postalCode": "94403",
+                "lat": 37.541225,
+                "lng": -122.28225,
+                "country": "us"
+              },
+              "images": [],
+              "onlineVenue": null,
+              "status": "published",
+              "timeStatus": "UPCOMING",
+              "dateTime": "2022-08-28T07:30-07:00",
+              "duration": "PT2H",
+              "timezone": "America/Los_Angeles",
+              "endTime": "2022-08-28T09:30-07:00",
+              "createdAt": null,
+              "priceTier": "paid",
+              "fees": null,
+              "taxType": null,
+              "donation": null,
+              "maxTickets": 26,
+              "waitlistMode": "AUTO",
+              "going": 11,
+              "waiting": 0,
+              "eventType": "physical",
+              "isOnline": false,
+              "isNetworkEvent": false,
+              "image": {
+                "baseUrl": "https://secure-content.meetupstatic.com/images/event/"
+              },
+              "shortUrl": "https://www.meetup.com/peninsula-pick-up-soccer-meetup-group/events/285959144",
+              "hosts": [
+                {
+                  "name": "Linh T",
+                  "username": "user 201143120",
+                  "city": null,
+                  "country": null,
+                  "bio": null
+                }
+              ],
+              "topics": {
+                "edges": [
+                  {
+                    "cursor": "MzM0MA==",
+                    "node": {
+                      "name": "Pickup Soccer",
+                      "urlkey": "pickup-soccer"
+                    }
+                  },
+                  {
+                    "cursor": "NzI3Nw==",
+                    "node": {
+                      "name": "European Football",
+                      "urlkey": "european-football"
+                    }
+                  },
+                  {
+                    "cursor": "MTkzMjM=",
+                    "node": {
+                      "name": "Sports Fan",
+                      "urlkey": "sports-fan"
+                    }
+                  },
+                  {
+                    "cursor": "MjU3MzI=",
+                    "node": {
+                      "name": "Soccer",
+                      "urlkey": "soccer"
+                    }
+                  },
+                  {
+                    "cursor": "MzExNjM=",
+                    "node": {
+                      "name": "Sports and Socials",
+                      "urlkey": "sports-and-socials"
+                    }
+                  }
+                ],
+                "count": 5
+              },
+              "zoomMeetingId": null
+            }
+          }
+        }
+      ]
+    }
+  }
+}
