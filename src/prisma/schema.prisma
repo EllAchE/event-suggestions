@@ -8,32 +8,33 @@ datasource db {
   url      = env("DATABASE_URL")
 }
 
-model CalendarEvent {
+model calendar_event {
   id          Int      @id @unique @default(autoincrement())
-  location    Location @relation(fields: [locationId], references: [id])
-  locationId  Int
+  location    location @relation(fields: [location_id], references: [id])
+  location_id Int
   description String
   title       String
   // source      Source
   source      String
-  createdAt   DateTime @default(now())
-  updatedAt   DateTime @updatedAt
+  created_at  DateTime @default(now())
+  updated_at  DateTime @updatedAt
 }
 
-model Location {
-  id           Int             @id @unique @default(autoincrement())
-  country      String          @default("US")
-  addressLine1 String
-  addressLine2 String?
-  lat          Decimal?
-  long         Decimal?
-  zip          Int?
-  state        String
-  city         String
-  events       CalendarEvent[]
-  User         User[]
+model location {
+  id             Int              @id @unique @default(autoincrement())
+  country        String           @default("US")
+  address_line_1 String
+  address_line_2 String?
+  lat            Decimal?
+  long           Decimal?
+  zip            Int?
+  state          String?
+  city           String
+  events         calendar_event[]
+  User           User[]
 
-  @@unique([city, state, addressLine1])
+  @@unique([city, state, address_line_1])
+  @@unique([city, country, address_line_1])
   @@unique([lat, long]) // only one with lat/long
 }
 
@@ -44,11 +45,11 @@ model Location {
 // }
 
 model User {
-  id             Int      @id @unique @default(autoincrement())
-  email          String // determine if this should be kept
-  userLocationId Int
-  createdAt      DateTime @default(now())
-  updatedAt      DateTime @updatedAt
-  location       Location @relation(fields: [locationId], references: [id])
-  locationId     Int
+  id               Int      @id @unique @default(autoincrement())
+  email            String // determine if this should be kept
+  user_location_id Int
+  created_at       DateTime @default(now())
+  updated_at       DateTime @updatedAt
+  location         location @relation(fields: [location_id], references: [id])
+  location_id      Int
 }

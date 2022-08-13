@@ -16,6 +16,7 @@ export function querySerpApi(
     google_domain: 'google.com',
     gl: 'us',
     hl: 'en',
+    api_key: 'ae432bb4eade9985f9af2cd8d94a411516a216b598a697992b4f9bbe150c832f', // TODO: This should be an env var
   };
 
   search.json(params, callback);
