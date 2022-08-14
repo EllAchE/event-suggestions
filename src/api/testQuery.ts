@@ -1,4 +1,4 @@
-import { calendar_event } from '@prisma/client';
+import { calendar_event, query } from '@prisma/client';
 import { prismaClient } from '../prisma/client';
 import { eventKeywordSearch } from './sql';
 
@@ -6,18 +6,18 @@ export async function searchEvents(query: string): Promise<calendar_event[]> {
   return prismaClient.$queryRaw(eventKeywordSearch(query));
 }
 
-export async function getEventsByPreferences(
+export async function checkQueryIsStale(
   location: any,
   categoryPreferences: any
-): Promise<calendar_event[]> {
-  return prismaClient.calendar_event.findMany({
+): Promise<number | null> {
+  const res: query = await prismaClient.query.findFirst({
     where: {
       location: {
         ...location,
       },
-      query: {
-        ...categoryPreferences,
-      },
+      ...categoryPreferences,
     },
   });
+
+  return res.id ?? null;
 }

@@ -1,6 +1,6 @@
 import { Prisma } from '@prisma/client';
 import { queryMeetup, queryTicketMaster } from '../src/api/dataSources';
-import { saveEventsForGeography } from '../src/jobs/saveEvents';
+import { saveEvents } from '../src/jobs/saveEvents';
 import { prismaClient } from '../src/prisma/client';
 
 test('cron saves to database', async () => {
@@ -13,7 +13,7 @@ test('cron saves to database', async () => {
     city: 'San Francisco',
   };
 
-  await saveEventsForGeography(testgl);
+  await saveEvents(testgl);
 });
 
 // test('pulls data from sources', async () => {

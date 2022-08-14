@@ -1,5 +1,6 @@
 import { querySerpApi } from '../api/dataSources';
 import { upsertAddressSerp } from '../api/sql';
+import { checkQueryIsStale } from '../api/testQuery';
 import { prismaClient } from '../prisma/client';
 import { EventCreate, GeoPoint } from '../utils/types';
 
@@ -12,25 +13,35 @@ const testgl = {
   city: 'San Francisco',
 };
 
-export function saveEvents() {
-  saveEventsForGeography(testgl);
+export async function retrieveAndSaveEvents(
+  geography: GeoPoint,
+  preferences: any
+) {
+  let queryId: number | null = await checkQueryIsStale(geography, preferences);
+  if (!queryId) {
+    const createdQuery = prismaClient.query.create({
+      ...preferences,
+      location,
+    });
+    queryId = (await createdQuery).id;
+    const serpEvents = saveSerpApi(geography, queryId);
+    // TODO: support other event formats
+  }
+  return prismaClient.calendar_event.findMany({
+    where: {
+      query_id: queryId,
+    },
+  });
 }
 
-export function saveEventsForGeography(location: GeoPoint) {
-  saveSerpApi(location);
-}
-
-function saveSerpApi(location: GeoPoint) {
+async function saveSerpApi(location: GeoPoint, queryId: number): Promise<void> {
   const query = `Events in ${location.id}`;
 
-  function serpSaveCallback(serpResponse: any) {
+  async function serpSaveCallback(serpResponse: any) {
     const events: any[] = serpResponse['events_results'];
 
     const mappedEvents: EventCreate[] = events.map((rawEvent: any) => {
       const { title, date, address, link, thumbnail } = rawEvent;
-
-      console.log('raw event');
-      console.log(rawEvent);
 
       return {
         title: title,
@@ -51,14 +62,13 @@ function saveSerpApi(location: GeoPoint) {
 
     for (const event of mappedEvents) {
       const { addressLine1, city, state } = event.location;
-      prismaClient
-        .$queryRaw(upsertAddressSerp(addressLine1, city, state))
-        .then((loc: any) => {
-          console.log('attempt to write to prisma');
-          prismaClient.calendar_event.createMany({
-            data: { ...event, location_id: loc.id },
-          });
-        });
+      const loc: any = await prismaClient.$queryRaw(
+        upsertAddressSerp(addressLine1, city, state)
+      );
+
+      await prismaClient.calendar_event.createMany({
+        data: { ...event, location_id: loc.id, query_id: queryId },
+      });
     }
   }
 

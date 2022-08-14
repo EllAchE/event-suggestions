@@ -8,6 +8,19 @@ datasource db {
   url      = env("DATABASE_URL")
 }
 
+// TODO: this should be a cache and not a database table, where the cached queries
+
+model query {
+  id             Int              @id @unique @default(autoincrement())
+  calendar_event calendar_event[]
+  city           String?
+  state          String?
+  include_sports Boolean          @default(true)
+  include_music  Boolean          @default(true) // TODO: improve the options here
+  location       location?        @relation(fields: [location_id], references: [id])
+  location_id    Int?
+}
+
 model calendar_event {
   id          Int      @id @unique @default(autoincrement())
   location    location @relation(fields: [location_id], references: [id])
@@ -18,20 +31,23 @@ model calendar_event {
   source      String
   created_at  DateTime @default(now())
   updated_at  DateTime @updatedAt
+  query_id    Int
+  query       query    @relation(fields: [query_id], references: [id])
 }
 
 model location {
   id             Int              @id @unique @default(autoincrement())
-  country        String           @default("US")
-  address_line_1 String
+  country        String?          @default("US")
+  address_line_1 String?
   address_line_2 String?
   lat            Decimal?
   long           Decimal?
   zip            Int?
   state          String?
-  city           String
+  city           String?
   events         calendar_event[]
   User           User[]
+  query          query[]
 
   @@unique([city, state, address_line_1])
   @@unique([city, country, address_line_1])
