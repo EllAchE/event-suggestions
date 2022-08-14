@@ -1,9 +1,9 @@
-import { app, port } from './api/constants';
+import { app, port } from './constants';
 import { Request, Response } from 'express';
 //import getEvents from './api/getEvents';
 import { calendar_event } from '@prisma/client';
-import { searchEvents } from './api/getEvents';
-import { retrieveAndSaveEvents } from './jobs/saveEvents';
+import { retrieveAndSaveEvents } from '../jobs/saveEvents';
+import { searchEvents } from '../prisma/raw';
 
 app.listen(port, (req: any, res: any) => {
   console.log('connected');
@@ -30,7 +30,7 @@ app.put('/events/preferences', async (req: Request, res: Response) => {
       preferences
     );
 
-    console
+    console;
 
     res.json({ events });
   } catch (err: any) {

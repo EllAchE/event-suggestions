@@ -1,5 +1,7 @@
-import { EventCreate, MeetupEvent, SerpApiEvent } from './utils/types';
 import { mapKeys, rearg, snakeCase, camelCase } from 'lodash';
+import { EventCreate } from './types/common';
+import { MeetupEvent } from './types/meetup';
+import { SerpApiEvent } from './types/serpApi';
 
 export function tryCatchWrapper(fn: any, params: any): void {
   try {
