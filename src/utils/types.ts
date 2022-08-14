@@ -30,12 +30,17 @@ type EventData = {
   start: any;
   end: any;
   source: string;
+  venueName?: string;
 };
 
 type LocationData = {
   addressLine1: string;
   city: string;
   state: string;
+  lat?: number;
+  long?: number;
+  zip?: string;
+  country?: string;
 };
 
 export type EventCreate = {

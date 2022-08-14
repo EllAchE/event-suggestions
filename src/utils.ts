@@ -1,4 +1,5 @@
 import { EventCreate, MeetupEvent, SerpApiEvent } from './utils/types';
+import { mapKeys, rearg, snakeCase, camelCase } from 'lodash';
 
 export function tryCatchWrapper(fn: any, params: any): void {
   try {
@@ -43,7 +44,7 @@ export function standardizeMeetupEvents(rawEvent: MeetupEvent): EventCreate {
     lat,
     lng: long,
     country,
-    postalCode,
+    postalCode: zip,
   } = venue;
 
   return {
@@ -51,6 +52,10 @@ export function standardizeMeetupEvents(rawEvent: MeetupEvent): EventCreate {
       addressLine1,
       city,
       state,
+      lat,
+      long,
+      country,
+      zip,
     },
     eventData: {
       source: 'SERPAPI',
@@ -58,6 +63,15 @@ export function standardizeMeetupEvents(rawEvent: MeetupEvent): EventCreate {
       start: dateTime,
       end: undefined, // TODO: parse the duration and turn that into an end date
       title: title,
+      venueName,
     },
   };
+}
+
+export function snakeCaseKeys(obj: any) {
+  return mapKeys(obj, rearg(snakeCase, 1));
+}
+
+export function camelCaseKeys(obj: any) {
+  return mapKeys(obj, rearg(camelCase, 1));
 }

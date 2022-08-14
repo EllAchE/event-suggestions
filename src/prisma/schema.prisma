@@ -28,6 +28,7 @@ model calendar_event {
   location_id Int
   description String
   title       String
+  venue_name  String? // TODO: move to separate venue model
   // source      Source
   source      String
   start       String
@@ -45,7 +46,7 @@ model location {
   address_line_2 String?
   lat            Decimal?
   long           Decimal?
-  zip            Int?
+  zip            String?
   state          String           @default("")
   city           String           @default("")
   events         calendar_event[]

@@ -4,7 +4,11 @@ import { queryMeetup } from '../api/meetup';
 import { upsertAddressSerp } from '../api/sql';
 import { checkQueryIsStale } from '../api/testQuery';
 import { prismaClient } from '../prisma/client';
-import { standardizeSerpapiEvents } from '../utils';
+import {
+  snakeCaseKeys,
+  standardizeMeetupEvents,
+  standardizeSerpapiEvents,
+} from '../utils';
 import { EventCreate, GeoPoint, MeetupEvent } from '../utils/types';
 
 const testgl = {
@@ -84,9 +88,7 @@ async function saveSerpApi(location: GeoPoint, queryId: number): Promise<void> {
         },
         update: {},
         create: {
-          city,
-          state,
-          address_line_1: addressLine1,
+          ...snakeCaseKeys(locationData),
         },
       });
       console.log('id of loc', loc);
@@ -120,7 +122,7 @@ async function saveMeetup(location: GeoPoint, queryId: number): Promise<void> {
     return; // Early exit if the query yields no event results
   }
 
-  const mappedEvents: EventCreate[] = events.map(standardizeSerpapiEvents);
+  const mappedEvents: EventCreate[] = events.map(standardizeMeetupEvents);
 
   for (const event of mappedEvents) {
     const { locationData, eventData } = event;
