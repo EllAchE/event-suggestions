@@ -19,6 +19,7 @@ model query {
   include_music  Boolean          @default(true) // TODO: improve the options here
   location       location?        @relation(fields: [location_id], references: [id])
   location_id    Int?
+  created_at     DateTime         @default(now())
 }
 
 model calendar_event {
@@ -29,6 +30,8 @@ model calendar_event {
   title       String
   // source      Source
   source      String
+  start       String
+  end         String
   created_at  DateTime @default(now())
   updated_at  DateTime @updatedAt
   query_id    Int
@@ -38,13 +41,13 @@ model calendar_event {
 model location {
   id             Int              @id @unique @default(autoincrement())
   country        String?          @default("US")
-  address_line_1 String?
+  address_line_1 String           @default("")
   address_line_2 String?
   lat            Decimal?
   long           Decimal?
   zip            Int?
-  state          String?
-  city           String?
+  state          String           @default("")
+  city           String           @default("")
   events         calendar_event[]
   User           User[]
   query          query[]

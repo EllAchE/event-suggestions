@@ -24,11 +24,21 @@ export type Location = {
   city?: string;
 };
 
-export type EventCreate = {
+type EventData = {
   title: string;
   description: string;
   start: any;
   end: any;
   source: string;
-  location?: Location;
+};
+
+type LocationData = {
+  addressLine1: string;
+  city: string;
+  state: string;
+};
+
+export type EventCreate = {
+  eventData: EventData;
+  locationData: LocationData;
 };

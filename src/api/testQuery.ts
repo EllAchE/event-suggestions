@@ -10,7 +10,7 @@ export async function checkQueryIsStale(
   location: any,
   categoryPreferences: any
 ): Promise<number | null> {
-  const res: query = await prismaClient.query.findFirst({
+  const res: query | null = await prismaClient.query.findFirst({
     where: {
       location: {
         ...location,
@@ -19,5 +19,5 @@ export async function checkQueryIsStale(
     },
   });
 
-  return res.id ?? null;
+  return res?.id ?? null;
 }

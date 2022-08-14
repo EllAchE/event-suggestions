@@ -21,13 +21,20 @@ app.get('/events/search', async (req: Request, res: Response) => {
   res.json({ events });
 });
 
-app.get('/events/preferences', async (req: Request, res: Response) => {
-  const { location, preferences } = req.body;
+app.put('/events/preferences', async (req: Request, res: Response) => {
+  try {
+    const { location, preferences } = req.body;
 
-  const events: calendar_event[] = await retrieveAndSaveEvents(
-    location,
-    preferences
-  );
+    const events: calendar_event[] | undefined = await retrieveAndSaveEvents(
+      location,
+      preferences
+    );
 
-  res.json({ events });
+    console
+
+    res.json({ events });
+  } catch (err: any) {
+    console.error(err);
+    res.sendStatus(500);
+  }
 });

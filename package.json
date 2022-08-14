@@ -4,7 +4,7 @@
   "description": "",
   "scripts": {
     "test": "jest ./test/test.ts",
-    "dev": "ts-node src/run.ts"
+    "start": "ts-node src/run.ts"
   },
   "keywords": [],
   "author": "",

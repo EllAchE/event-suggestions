@@ -19,6 +19,7 @@ export function querySerpApi(
     api_key: 'ae432bb4eade9985f9af2cd8d94a411516a216b598a697992b4f9bbe150c832f', // TODO: This should be an env var
   };
 
+  console.info('third party callback about to execute');
   search.json(params, callback);
 }
 
