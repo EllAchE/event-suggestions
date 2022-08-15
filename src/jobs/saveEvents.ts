@@ -4,6 +4,7 @@ import { saveQueryToDb, saveStandardizedEventToDb } from '../prisma/create';
 import {
   standardizeMeetupEvents,
   standardizeSerpapiEvents,
+  standardizeTicketMasterEvents,
 } from '../utils/utils';
 import { EventCreate, GeoPoint } from '../utils/types/common';
 import querySerpApi from '../data-retrieval/querySerpApi';
@@ -18,14 +19,15 @@ export async function retrieveAndSaveEvents(
   preferences: any
 ) {
   let queryId: number | null = await checkQueryIsStale(geography, preferences);
+  console.log('is there a query id', queryId ? true : false);
   if (!queryId) {
-    queryId = await saveQueryToDb(preferences, geography, queryId);
+    queryId = await saveQueryToDb(preferences, geography);
 
     try {
       //const serpEvents = await saveSerpApi(geography, queryId);
       //const meetupEvents = await saveMeetup(geography, queryId);
       const ticketMasterEvents = await saveTicketMaster(geography, queryId);
-      console.dir(ticketMasterEvents);
+      console.dir('ticketMasterEvents fetced');
       //console.dir(serpEvents);
       //console.dir(meetupEvents);
     } catch (err: any) {
@@ -33,7 +35,7 @@ export async function retrieveAndSaveEvents(
     }
   }
 
-  console.dir('getting events');
+  // this needs to be tied to the completion of the serpapi call and save, somehow. Or use await
   return prismaClient.calendar_event.findMany({
     where: {
       query_id: queryId,
@@ -100,10 +102,24 @@ async function saveTicketMaster(
 ): Promise<void> {
   // pass url params f
   const { city, state, country, lat, long, zip } = location;
+  // constant is the same as 1000 * 60 * 60 * 24 * 42, aka 42 days
+  const sixWeeksAhead: string =
+    new Date(new Date().getTime() + 3628800000).toISOString().split('.')[0] +
+    'Z'; // TODO this should be configurable in case someone wants to look further
+  console.log('iso', sixWeeksAhead);
   const res = await queryTicketMaster([
     { key: 'zip', value: zip },
     { key: 'keyword', value: city },
+    { key: 'endDateTime', value: sixWeeksAhead },
   ]);
 
-  const events: TicketMasterEvent[] = res?.data?.events;
+  const events: TicketMasterEvent[] = res?.data?._embedded?.events;
+
+  console.dir(events[0]);
+
+  const mappedEvents: EventCreate[] = events.map(standardizeTicketMasterEvents);
+
+  for (const event of mappedEvents) {
+    saveStandardizedEventToDb(event, queryId);
+  }
 }

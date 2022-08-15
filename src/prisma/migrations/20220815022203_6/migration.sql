@@ -1,0 +1,12 @@
+-- AlterTable
+ALTER TABLE "calendar_event" ADD COLUMN     "venue_name" TEXT;
+
+-- AlterTable
+ALTER TABLE "location" ALTER COLUMN "country" DROP DEFAULT,
+ALTER COLUMN "address_line_1" DROP NOT NULL,
+ALTER COLUMN "address_line_1" DROP DEFAULT,
+ALTER COLUMN "zip" SET DATA TYPE TEXT,
+ALTER COLUMN "state" DROP NOT NULL,
+ALTER COLUMN "state" DROP DEFAULT,
+ALTER COLUMN "city" DROP NOT NULL,
+ALTER COLUMN "city" DROP DEFAULT;

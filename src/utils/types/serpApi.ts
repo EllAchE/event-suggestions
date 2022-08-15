@@ -1,7 +1,7 @@
 export interface SerpApiEvent {
-  title?: string;
+  title: string;
   date?: SerpDate;
-  address?: string[] | null;
+  address: string[];
   link?: string;
   thumbnail?: string;
 }

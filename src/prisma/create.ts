@@ -9,13 +9,17 @@ export async function saveStandardizedEventToDb(
 ) {
   const { locationData, eventData } = event;
   const { addressLine1, city, state } = locationData ?? {};
+  const obj: any = {
+    city: city ?? '',
+    state: state ?? '',
+    address_line_1: addressLine1 ?? '',
+  };
+  console.log('contents of obj');
+  console.dir(obj);
+  console.dir(event);
   const loc: location = await prismaClient.location.upsert({
     where: {
-      city_state_address_line_1: {
-        city,
-        state: state ? state : '',
-        address_line_1: addressLine1,
-      },
+      city_state_address_line_1: obj,
     },
     update: {},
     create: {
@@ -29,11 +33,7 @@ export async function saveStandardizedEventToDb(
   });
 }
 
-export async function saveQueryToDb(
-  preferences: any,
-  geography: GeoPoint,
-  queryId: number
-) {
+export async function saveQueryToDb(preferences: any, geography: GeoPoint) {
   const createdQuery = prismaClient.query.create({
     data: {
       ...preferences,
@@ -44,6 +44,5 @@ export async function saveQueryToDb(
       },
     },
   });
-  queryId = (await createdQuery).id;
-  return queryId;
+  return (await createdQuery).id;
 }

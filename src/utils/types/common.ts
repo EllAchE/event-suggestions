@@ -1,6 +1,6 @@
 export type UrlParam = {
   key: string;
-  value: string;
+  value?: string;
 };
 
 export type GeoPoint = {
@@ -34,9 +34,9 @@ type EventData = {
 };
 
 type LocationData = {
-  addressLine1: string;
-  city: string;
-  state: string;
+  addressLine1?: string;
+  city?: string;
+  state?: string;
   lat?: number;
   long?: number;
   zip?: string;

@@ -41,14 +41,14 @@ model calendar_event {
 
 model location {
   id             Int              @id @unique @default(autoincrement())
-  country        String?          @default("US")
-  address_line_1 String           @default("")
+  country        String?
+  address_line_1 String?
   address_line_2 String?
   lat            Decimal?
   long           Decimal?
   zip            String?
-  state          String           @default("")
-  city           String           @default("")
+  state          String?
+  city           String?
   events         calendar_event[]
   User           User[]
   query          query[]

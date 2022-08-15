@@ -1,7 +1,7 @@
 export interface MeetupEvent {
   id?: string;
   token?: string;
-  title?: string;
+  title: string;
   eventUrl?: string;
   description?: string;
   shortDescription?: null;
