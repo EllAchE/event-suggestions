@@ -1,4 +1,4 @@
-import { EventCreate, GeoPoint } from '../utils/types/common';
+import { EventCreate, GeoPoint, Preferences } from '../utils/types/common';
 import { location } from '@prisma/client';
 import { prismaClient } from './client';
 import { snakeCaseKeys } from '../utils/utils';
@@ -16,7 +16,6 @@ export async function saveStandardizedEventToDb(
   };
   console.log('contents of obj');
   console.dir(obj);
-  console.dir(event);
   const loc: location = await prismaClient.location.upsert({
     where: {
       city_state_address_line_1: obj,
@@ -33,7 +32,10 @@ export async function saveStandardizedEventToDb(
   });
 }
 
-export async function saveQueryToDb(preferences: any, geography: GeoPoint) {
+export async function saveQueryToDb(
+  preferences: Preferences | any,
+  geography: GeoPoint
+) {
   const createdQuery = prismaClient.query.create({
     data: {
       ...preferences,

@@ -13,6 +13,14 @@ export type GeoPoint = {
   zip?: string;
 };
 
+export type Preferences = {
+  suggestEvents: boolean;
+  suggestSports: boolean;
+  suggestMusic: boolean;
+  suggestComedy: boolean;
+  suggestFamily: boolean;
+};
+
 export type Location = {
   country?: string;
   addressLine1?: string;

@@ -6,7 +6,7 @@ import {
   standardizeSerpapiEvents,
   standardizeTicketMasterEvents,
 } from '../utils/utils';
-import { EventCreate, GeoPoint } from '../utils/types/common';
+import { EventCreate, GeoPoint, Preferences } from '../utils/types/common';
 import querySerpApi from '../data-retrieval/querySerpApi';
 import queryMeetup from '../data-retrieval/queryMeetup';
 import { checkQueryIsStale } from '../prisma/find';
@@ -16,7 +16,7 @@ import { MeetupEvent } from '../utils/types/meetup';
 
 export async function retrieveAndSaveEvents(
   geography: GeoPoint,
-  preferences: any
+  preferences: Preferences
 ) {
   let queryId: number | null = await checkQueryIsStale(geography, preferences);
   console.log('is there a query id', queryId ? true : false);
@@ -115,7 +115,7 @@ async function saveTicketMaster(
 
   const events: TicketMasterEvent[] = res?.data?._embedded?.events;
 
-  console.dir(events[0]);
+  console.log('an event', events[0]);
 
   const mappedEvents: EventCreate[] = events.map(standardizeTicketMasterEvents);
 

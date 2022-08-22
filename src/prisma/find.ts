@@ -1,5 +1,5 @@
 import { query } from '@prisma/client';
-import { GeoPoint } from '../utils/types/common';
+import { GeoPoint, Preferences } from '../utils/types/common';
 import { prismaClient } from './client';
 
 export async function saveQueryToDb(
@@ -23,7 +23,7 @@ export async function saveQueryToDb(
 
 export async function checkQueryIsStale(
   location: any,
-  categoryPreferences: any
+  categoryPreferences: Preferences
 ): Promise<number | null> {
   const res: query | null = await prismaClient.query.findFirst({
     where: {

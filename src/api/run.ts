@@ -21,7 +21,7 @@ app.get('/events/search', async (req: Request, res: Response) => {
   res.json({ events });
 });
 
-app.put('/events/preferences', async (req: Request, res: Response) => {
+app.put('/events', async (req: Request, res: Response) => {
   try {
     const { location, preferences } = req.body;
 
