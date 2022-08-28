@@ -2,7 +2,11 @@ import axios from 'axios';
 import { buildSchema } from 'graphql'; // TODO: use gql library instead of axios
 import { GeoPoint } from '../utils/types/common';
 
-export default async function queryMeetup(location: GeoPoint): Promise<any> {
+export default async function queryMeetup(
+  location: GeoPoint,
+  lat?: number,
+  long?: number
+): Promise<any> {
   const queryText = location.city; // TODO: either this query has to be repeated with different texts or a return all as to be discovered.
   // TODO: also need to handle pagination
 

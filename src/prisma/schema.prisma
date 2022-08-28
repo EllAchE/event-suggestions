@@ -16,6 +16,8 @@ model query {
   city           String?
   state          String?
   include_sports Boolean          @default(true)
+  include_comedy Boolean          @default(true)
+  include_family Boolean          @default(true)
   include_music  Boolean          @default(true) // TODO: improve the options here
   location       location?        @relation(fields: [location_id], references: [id])
   location_id    Int?
@@ -36,6 +38,7 @@ model calendar_event {
   created_at  DateTime @default(now())
   updated_at  DateTime @updatedAt
   query_id    Int
+  categories  String[]
   query       query    @relation(fields: [query_id], references: [id])
 }
 

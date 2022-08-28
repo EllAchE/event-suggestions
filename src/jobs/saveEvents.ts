@@ -2,6 +2,7 @@ import { upsertAddressSerp } from '../utils/sql';
 import { prismaClient } from '../prisma/client';
 import { saveQueryToDb, saveStandardizedEventToDb } from '../prisma/create';
 import {
+  mapEventsToGcalEvent,
   standardizeMeetupEvents,
   standardizeSerpapiEvents,
   standardizeTicketMasterEvents,
@@ -36,11 +37,16 @@ export async function retrieveAndSaveEvents(
   }
 
   // this needs to be tied to the completion of the serpapi call and save, somehow. Or use await
-  return prismaClient.calendar_event.findMany({
+  const events = await prismaClient.calendar_event.findMany({
     where: {
       query_id: queryId,
     },
+    include: {
+      location: true,
+    },
   });
+
+  return mapEventsToGcalEvent(events);
 }
 
 async function saveSerpApi(location: GeoPoint, queryId: number): Promise<void> {

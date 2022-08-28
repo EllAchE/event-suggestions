@@ -4,6 +4,7 @@ import { Request, Response } from 'express';
 import { calendar_event } from '@prisma/client';
 import { retrieveAndSaveEvents } from '../jobs/saveEvents';
 import { searchEvents } from '../prisma/raw';
+import { GoogleCalendarEvent } from '../utils/types/common';
 
 app.listen(port, (req: any, res: any) => {
   console.log('connected');
@@ -25,12 +26,8 @@ app.put('/events', async (req: Request, res: Response) => {
   try {
     const { location, preferences } = req.body;
 
-    const events: calendar_event[] | undefined = await retrieveAndSaveEvents(
-      location,
-      preferences
-    );
-
-    console;
+    const events: GoogleCalendarEvent[] | undefined =
+      await retrieveAndSaveEvents(location, preferences);
 
     res.json({ events });
   } catch (err: any) {

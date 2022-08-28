@@ -1,8 +1,57 @@
+import { calendar_event } from '@prisma/client';
+import { parseDate } from 'chrono-node';
 import * as _ from 'lodash';
-import { EventCreate } from './types/common';
+import { EventCreate, GoogleCalendarEvent } from './types/common';
 import { MeetupEvent } from './types/meetup';
 import { SerpApiEvent } from './types/serpApi';
 import { TicketMasterEvent } from './types/ticketMaster';
+
+export function convertArbitraryDateStringToISODate(dateStr: string): string {
+  const parseAttempt = parseDate(dateStr);
+  if (!parseAttempt) {
+    return dateStr;
+  }
+  return parseAttempt.toISOString();
+}
+
+// conditionallyReturnConcat
+function crc(a, b): string {
+  if (a) {
+    return a + b;
+  }
+  return '';
+}
+
+export function mapEventsToGcalEvent(
+  events: (calendar_event & {
+    location: any;
+  })[]
+): GoogleCalendarEvent[] {
+  return events.map((e) => {
+    //const locString = `${crc(e.venue_name, ' ')}${e.location.address_line_1}, ${e.location.city} ${e.location.state} + ${e.location.zip}`; // TODO make this properly handle certain fields missing
+    const locString =
+      crc(e.venue_name, ' ') +
+        crc(e.location.address_line_1, ', ') +
+        crc(e.location.city, ' ') +
+        crc(e.location.state, ' ') +
+        e.location.zip ?? '';
+    const start = convertArbitraryDateStringToISODate(e.start);
+    const end = convertArbitraryDateStringToISODate(e.end); // TODO: make sure things are properly converted here
+
+    return {
+      end: {
+        dateTime: start,
+      },
+      start: {
+        dateTime: end,
+      },
+      location: locString,
+      title: e.title,
+      summary: e.title,
+      description: e.description, // TODO add other fields, i.e. id
+    };
+  });
+}
 
 export function tryCatchWrapper(fn: any, params: any): void {
   try {
